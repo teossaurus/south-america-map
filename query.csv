@@ -1,0 +1,626 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2015-10-01T01:53:34.720Z,-22.0353,-67.4145,185.07,4.4,mb,,30,1.154,0.88,us,us10003je7,2016-01-04T22:28:33.040Z,"127km NE of San Pedro de Atacama, Chile",earthquake,6.9,5.3,0.054,100,reviewed,us,us
+2015-10-01T02:06:22.650Z,-30.7069,-71.4783,38.33,4.7,mb,,83,0.643,0.54,us,us10003je8,2016-01-04T22:28:33.040Z,"29km WSW of Ovalle, Chile",earthquake,4.4,6.5,0.082,45,reviewed,us,us
+2015-10-01T02:16:16.700Z,18,-66.9182,104,2.8,Md,3,244.8,0.18145969,0.1,pr,pr15274000,2016-01-04T22:28:33.040Z,"1km N of Fuig, Puerto Rico",earthquake,11.5,1.7,0,3,reviewed,pr,pr
+2015-10-01T02:25:54.040Z,-30.1461,-72.0068,14.29,4.6,mwr,,84,0.616,0.81,us,us10003jed,2016-01-04T22:28:34.040Z,"67km WSW of Coquimbo, Chile",earthquake,4.6,3.7,0.047,44,reviewed,us,us
+2015-10-01T03:21:37.570Z,-31.9046,-72.2302,14.64,4.4,mwr,,145,1.222,0.79,us,us10003jes,2016-01-04T22:28:34.040Z,"105km WSW of Illapel, Chile",earthquake,4.2,4.1,0.046,46,reviewed,us,us
+2015-10-01T06:19:33.600Z,18.3059,-64.1118,39,3.1,Md,6,316.8,0.33147834,0.5,pr,pr15274003,2016-01-04T22:28:35.040Z,"54km ESE of Road Town, British Virgin Islands",earthquake,17.9,15.1,0,5,reviewed,pr,pr
+2015-10-01T08:50:16.150Z,-27.8917,-66.4071,143.48,4.1,mb,,79,2.64,1.09,us,us10003jfs,2016-01-04T22:28:35.040Z,"35km SSW of Andalgala, Argentina",earthquake,9.6,9.8,0.198,7,reviewed,us,us
+2015-10-01T09:28:58.000Z,-31.759,-71.353,47.8,4,ml,,,,0.82,us,us10003jg7,2016-01-04T22:28:35.040Z,"22km SW of Illapel, Chile",earthquake,6.5,9.8,,,reviewed,guc,guc
+2015-10-01T11:01:24.300Z,18.9115,-64.5071,55,3.1,Md,3,262.8,0.24434176,0.17,pr,pr15274001,2016-01-04T22:28:36.040Z,"55km NNE of Road Town, British Virgin Islands",earthquake,3,2.6,0,3,reviewed,pr,pr
+2015-10-01T12:28:42.200Z,18.645,-65.4736,69,2.9,Md,7,201.6,0.381784,0.14,pr,pr15274002,2016-01-04T22:28:36.040Z,"39km NE of Luquillo, Puerto Rico",earthquake,2.7,2.2,0,5,reviewed,pr,pr
+2015-10-01T14:31:10.210Z,-32.7952,-72.121,10,4.5,mb,,191,0.465,0.84,us,us10003jgy,2016-01-04T22:28:36.040Z,"53km WNW of Valparaiso, Chile",earthquake,5.7,1.9,0.222,6,reviewed,us,us
+2015-10-01T16:47:54.910Z,-32.8092,-72.0761,13.38,4.1,mwr,,134,0.426,1.1,us,us10003ji6,2016-01-04T22:28:37.040Z,"49km WNW of Valparaiso, Chile",earthquake,3.5,3.9,0.053,34,reviewed,us,us
+2015-10-01T17:51:06.670Z,9.4757,-84.0688,44.65,4.2,mb,,115,0.352,1.01,us,us10003jjz,2016-01-04T22:28:37.040Z,"12km ENE of Quepos, Costa Rica",earthquake,5.5,7.6,0.175,9,reviewed,us,us
+2015-10-01T18:29:59.450Z,15.029,-60.5546,65.28,4.4,mb,,69,0.4,0.8,us,us10003jk7,2016-01-04T22:28:37.040Z,"54km ENE of Sainte-Marie, Martinique",earthquake,6.2,5.5,0.102,28,reviewed,us,us
+2015-10-01T19:42:47.180Z,-15.7239,-72.0935,30.24,4.9,mb,,123,3.12,1.03,us,us10003jkl,2016-02-19T01:56:25.000Z,"33km NNW of Lluta, Peru",earthquake,8.9,4.7,0.04,193,reviewed,us,us
+2015-10-01T20:28:33.150Z,-30.5618,-72.502,10,4.4,mb,,212,1.267,0.71,us,us10003n97,2016-01-04T22:28:38.040Z,"124km W of Ovalle, Chile",earthquake,6.9,2,0.536,1,reviewed,us,us
+2015-10-01T21:29:43.100Z,19.2259,-64.7058,35,2.4,Md,3,291.6,0.60636282,0.23,pr,pr15274004,2015-10-01T23:12:08.609Z,"90km N of Road Town, British Virgin Islands",earthquake,3.2,11.8,0,3,reviewed,pr,pr
+2015-10-02T02:34:34.900Z,18.0175,-65.3748,13,4.2,Md,21,151.2,0.18595126,0.21,pr,pr15275000,2016-01-04T22:28:40.040Z,"13km SE of Esperanza, Puerto Rico",earthquake,0.5,0.6,0,20,reviewed,pr,pr
+2015-10-02T04:28:32.090Z,-45.6126,-107.3596,10,4.8,mb,,49,18.491,0.72,us,us10003jph,2016-02-19T01:56:27.000Z,"Southern East Pacific Rise",earthquake,12.4,1.7,0.054,107,reviewed,us,us
+2015-10-02T06:11:48.800Z,18.0342,-65.1309,13,2.8,Md,6,147.6,0.30722383,0.4,pr,pr15275001,2016-01-04T22:28:42.040Z,"34km SSE of Culebra, Puerto Rico",earthquake,1.3,3.5,0,6,reviewed,pr,pr
+2015-10-02T06:18:08.900Z,18.0228,-65.152,13,2.9,Md,5,154.8,0.30902046,0.36,pr,pr15275002,2016-01-04T22:28:42.040Z,"33km ESE of Vieques, Puerto Rico",earthquake,1.3,7,0,5,reviewed,pr,pr
+2015-10-02T06:29:55.500Z,18.8314,-65.6857,9,2.5,Md,6,259.2,0.64588869,0.27,pr,pr15275003,2016-01-04T22:28:43.040Z,"47km NNE of Vieques, Puerto Rico",earthquake,1.4,2.6,0,4,reviewed,pr,pr
+2015-10-02T06:30:55.500Z,18.0785,-65.3985,19,2.9,Md,7,140.4,0.14642539,0.23,pr,pr15275004,2016-01-04T22:28:43.040Z,"7km ESE of Esperanza, Puerto Rico",earthquake,1.2,0.6,0,7,reviewed,pr,pr
+2015-10-02T07:43:21.650Z,-30.9404,-71.5984,31,4.5,mb,,85,0.267,0.81,us,us10003jq4,2016-01-04T22:28:43.040Z,"53km SW of Ovalle, Chile",earthquake,5.2,5.2,0.192,8,reviewed,us,us
+2015-10-02T07:54:20.800Z,-31.4233,-72.7889,10,4.5,mb,,142,1.24,0.74,us,us10003jq6,2016-01-04T22:28:43.040Z,"155km W of Illapel, Chile",earthquake,7.5,1.9,0.15,13,reviewed,us,us
+2015-10-02T08:03:57.100Z,18.0394,-65.3981,19,2.8,Md,6,165.6,0.15720517,0.1,pr,pr15275006,2016-01-04T22:28:43.040Z,"9km SE of Esperanza, Puerto Rico",earthquake,0.7,0.4,0,5,reviewed,pr,pr
+2015-10-02T08:12:14.300Z,18.0412,-65.397,18,2.9,Md,6,147.6,0.15810349,0.11,pr,pr15275007,2016-01-04T22:28:43.040Z,"9km SE of Esperanza, Puerto Rico",earthquake,0.8,0.4,0,5,reviewed,pr,pr
+2015-10-02T08:13:01.410Z,-31.8131,-72.8192,5.15,4.4,mb,,157,1.522,0.76,us,us10003jqb,2016-01-04T22:28:44.040Z,"158km W of Illapel, Chile",earthquake,6.8,4.7,0.162,11,reviewed,us,us
+2015-10-02T08:28:07.000Z,-36.6214,-71.474,92.87,4.6,mb,,117,0.857,0.92,us,us10003jqi,2016-01-04T22:28:44.040Z,"32km E of Coihueco, Chile",earthquake,6.8,7.1,0.126,19,reviewed,us,us
+2015-10-02T08:40:05.870Z,-30.6825,-71.6204,21.3,4.4,mb,,121,0.015,0.66,us,us10003jqj,2016-01-04T22:28:44.040Z,"41km WSW of Ovalle, Chile",earthquake,7.5,6.7,0.31,3,reviewed,us,us
+2015-10-02T08:52:17.400Z,18.0279,-65.3916,17,2.8,Md,6,169.2,0.16798496,0.07,pr,pr15275008,2016-01-04T22:28:44.040Z,"11km SE of Esperanza, Puerto Rico",earthquake,0.8,1,0,4,reviewed,pr,pr
+2015-10-02T09:15:36.200Z,19.0252,-66.1771,10,2.8,Md,8,255.6,0.86777256,0.38,pr,pr15275009,2016-01-04T22:28:44.040Z,"62km N of San Juan, Puerto Rico",earthquake,3.9,5.4,0,5,reviewed,pr,pr
+2015-10-02T10:05:24.100Z,18.031,-65.388,13,3.1,Md,13,147.6,0.16888327,0.25,pr,pr15275005,2016-01-04T22:28:44.040Z,"11km SE of Esperanza, Puerto Rico",earthquake,0.6,0.8,0,11,reviewed,pr,pr
+2015-10-02T11:01:27.440Z,13.2629,-89.1194,67.73,4.3,mb,,115,0.435,1,us,us10003jr1,2016-01-04T22:28:45.040Z,"27km SSW of El Rosario, El Salvador",earthquake,6.8,8,0.068,61,reviewed,us,us
+2015-10-02T13:35:04.600Z,18.4298,-66.2519,116,3.4,Md,21,169.2,0.19942599,0.27,pr,pr15275010,2016-01-04T22:28:46.040Z,"1km WNW of Campanilla, Puerto Rico",earthquake,1.8,0.9,0,17,reviewed,pr,pr
+2015-10-02T14:09:05.090Z,-56.1853,-27.4579,114.12,4.4,mb,,114,5.507,0.6,us,us10003na4,2016-01-04T22:28:46.040Z,"59km NNW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,15.5,10.8,0.143,14,reviewed,us,us
+2015-10-02T14:48:16.390Z,-32.0201,-71.948,35,4.5,mb,,175,1.033,0.76,us,us10003jry,2016-01-04T22:28:46.040Z,"82km NW of La Ligua, Chile",earthquake,6.8,2,0.221,6,reviewed,us,us
+2015-10-02T15:04:17.000Z,-30.5332,-71.358,49.1,3.9,mb,,,,0.92,us,us10003js0,2016-01-04T22:28:46.040Z,"16km WNW of Ovalle, Chile",earthquake,8.4,6.7,0.363,2,reviewed,guc,us
+2015-10-02T16:22:47.000Z,-30.579,-71.6,32.5,4.9,mwr,,,,1.31,us,us10003jsh,2016-02-19T01:56:29.000Z,"38km W of Ovalle, Chile",earthquake,3.6,4.6,,,reviewed,guc,guc
+2015-10-02T16:33:27.300Z,-31.0024,-72.834,10,4.9,mww,,87,1.082,1.07,us,us10003jsk,2016-02-19T01:56:30.000Z,"162km WSW of Ovalle, Chile",earthquake,6.3,1.9,,,reviewed,us,us
+2015-10-02T18:37:51.200Z,19.2973,-66.182,46,3.3,Md,19,230.4,0.87945066,0.34,pr,pr15275011,2016-01-04T22:28:48.040Z,"92km N of San Juan, Puerto Rico",earthquake,2.2,8.8,0,18,reviewed,pr,pr
+2015-10-02T19:06:31.100Z,19.3892,-66.1143,40,3.4,Md,15,259.2,0.98814681,0.27,pr,pr15275012,2016-01-04T22:28:48.040Z,"102km N of San Juan, Puerto Rico",earthquake,1.7,9.4,0,10,reviewed,pr,pr
+2015-10-02T19:26:13.100Z,19.5163,-63.8768,31,3.3,Md,11,316.8,0.89292539,0.18,pr,pr15275013,2016-01-04T22:28:48.040Z,"144km NNE of Road Town, British Virgin Islands",earthquake,1.9,11.8,0,9,reviewed,pr,pr
+2015-10-02T19:42:49.000Z,-30.988,-72.563,25,4.2,mb,,,,1.44,us,us10003na7,2016-01-04T22:28:48.040Z,"137km WSW of Ovalle, Chile",earthquake,2.4,5.2,0.2,8,reviewed,guc,us
+2015-10-02T20:02:40.000Z,-31.082,-71.334,58.3,4,ml,,,,0.71,us,us10003jw7,2016-01-04T22:28:48.040Z,"55km SSW of Ovalle, Chile",earthquake,4.5,4.9,,,reviewed,guc,guc
+2015-10-02T22:23:00.000Z,-30.736,-71.35,52.7,4,ml,,,,0.59,us,us10003na3,2016-01-04T22:28:49.040Z,"20km SW of Ovalle, Chile",earthquake,6,8.3,,,reviewed,guc,guc
+2015-10-03T00:20:29.000Z,-33.798,-71.915,36.4,4.3,mb,,,,0.74,us,us10003jxq,2016-01-04T22:28:49.040Z,"35km SW of San Antonio, Chile",earthquake,3.7,5.4,0.201,7,reviewed,guc,us
+2015-10-03T01:37:49.750Z,-30.599,-72.701,10,4.2,mb,,152,0.921,0.82,us,us10003jxv,2016-01-04T22:28:50.040Z,"143km W of Ovalle, Chile",earthquake,4.4,1.9,0.215,6,reviewed,us,us
+2015-10-03T04:26:25.010Z,-32.8147,-72.1442,14,4,mwr,,149,0.474,0.69,us,us10003jy7,2016-01-04T22:28:51.040Z,"54km WNW of Valparaiso, Chile",earthquake,5.6,3.7,0.042,54,reviewed,us,us
+2015-10-03T05:22:52.330Z,-3.3756,-77.6498,47.45,4.4,mb,,93,3.677,1.14,us,us10003jyh,2016-01-04T22:28:51.040Z,"100km E of Gualaquiza, Ecuador",earthquake,9.3,7.8,0.093,33,reviewed,us,us
+2015-10-03T05:31:26.400Z,18.0235,-65.3886,19,2.7,Md,4,234,0.17247653,0.15,pr,pr15276000,2016-01-04T22:28:51.040Z,"11km SE of Esperanza, Puerto Rico",earthquake,1.9,0.7,0,4,reviewed,pr,pr
+2015-10-03T05:35:53.500Z,18.5464,-67.4384,15,2.5,Md,5,270,0.16618833,0.17,pr,pr15276001,2016-01-04T22:28:52.040Z,"30km NW of Rincon, Puerto Rico",earthquake,1.1,0.8,0,4,reviewed,pr,pr
+2015-10-03T06:03:42.080Z,-37.4557,-73.6761,14.53,5.8,mww,,118,2.02,0.84,us,us10003jyn,2016-02-19T01:56:34.000Z,"18km N of Lebu, Chile",earthquake,3.8,3.4,,,reviewed,us,us
+2015-10-03T06:26:55.780Z,-30.301,-71.551,38,5.9,mww,,57,0.378,0.75,us,us10003jyt,2016-02-19T01:56:35.000Z,"43km SSW of Coquimbo, Chile",earthquake,4.1,1.8,,,reviewed,us,us
+2015-10-03T06:51:15.550Z,14.2707,-92.9427,47.07,4.6,mb,,169,0.911,0.95,us,us10003jyz,2016-01-04T22:28:53.040Z,"75km SW of Puerto Madero, Mexico",earthquake,7.2,8.5,0.073,56,reviewed,us,us
+2015-10-03T07:20:00.350Z,-30.3303,-71.4784,38.33,4.3,mb,,135,0.368,0.75,us,us10003jz3,2016-01-04T22:28:53.040Z,"39km NW of Ovalle, Chile",earthquake,7.5,9.3,0.238,5,reviewed,us,us
+2015-10-03T07:42:57.050Z,-32.2357,-72.1225,5.78,4.3,mb,,189,0.885,0.67,us,us10003jz5,2016-01-04T22:28:53.040Z,"87km WNW of La Ligua, Chile",earthquake,4,5.7,0.218,6,reviewed,us,us
+2015-10-03T08:23:49.150Z,11.8584,-43.7352,10,5,mb,,47,16.47,0.64,us,us10003jzd,2016-02-19T01:56:36.000Z,"Northern Mid-Atlantic Ridge",earthquake,5.9,1.8,0.058,95,reviewed,us,us
+2015-10-03T08:26:56.480Z,-30.3288,-71.4924,39.37,4.5,mb,,120,0.365,0.62,us,us10003jzc,2016-01-04T22:28:54.040Z,"40km NW of Ovalle, Chile",earthquake,6.8,7.7,0.312,3,reviewed,us,us
+2015-10-03T09:08:53.340Z,-31.7517,-72.0152,10.24,4,mwr,,139,1.024,0.59,us,us10003jzg,2016-01-04T22:28:54.040Z,"81km W of Illapel, Chile",earthquake,2.9,3.6,0.043,52,reviewed,us,us
+2015-10-03T09:20:13.610Z,-5.1172,-79.8908,79.78,4,mb,,230,5.51,1.08,us,us20004055,2016-01-04T22:28:54.040Z,"11km NE of Morropon, Peru",earthquake,8.9,9.7,0.3,3,reviewed,us,us
+2015-10-03T09:33:12.800Z,18.7842,-64.4263,31,2.8,Md,6,248.4,0.10420457,0.17,pr,pr15276002,2016-01-04T22:28:54.040Z,"45km NNE of Road Town, British Virgin Islands",earthquake,1.4,1.5,0,5,reviewed,pr,pr
+2015-10-03T11:01:46.030Z,-31.7284,-72.2932,9.93,4.5,mwr,,115,1.193,0.36,us,us10003jzz,2016-01-04T22:28:55.040Z,"107km W of Illapel, Chile",earthquake,5.7,4.1,0.042,54,reviewed,us,us
+2015-10-03T11:21:01.700Z,-29.8205,-71.7255,28.54,5.1,mww,,114,0.434,0.72,us,us10003k08,2016-02-19T01:56:39.000Z,"39km WNW of Coquimbo, Chile",earthquake,4.5,3.6,,,reviewed,us,us
+2015-10-03T12:12:16.570Z,-31.1812,-71.7663,30.73,4.2,mb,,190,0.518,0.54,us,us10003k0d,2016-01-04T22:28:55.040Z,"75km NW of Illapel, Chile",earthquake,7,8,0.303,3,reviewed,us,us
+2015-10-03T13:48:10.650Z,-29.8651,-71.6961,35,4.3,mwr,,191,0.401,1.15,us,us10003k0k,2016-01-04T22:28:56.040Z,"35km WNW of Coquimbo, Chile",earthquake,5.1,2,0.045,47,reviewed,us,us
+2015-10-03T14:21:07.620Z,12.5825,-89.1255,52.71,4.6,mb,,199,1.102,1.38,us,us10003k0r,2016-01-04T22:28:56.040Z,"99km SW of Puerto El Triunfo, El Salvador",earthquake,8.1,13.9,0.146,14,reviewed,us,us
+2015-10-03T15:45:57.300Z,18.7388,-64.2922,41,2.5,Md,6,306,0.03952587,0.34,pr,pr15276004,2016-01-04T22:28:56.040Z,"49km NE of Road Town, British Virgin Islands",earthquake,4.8,2.2,0,5,reviewed,pr,pr
+2015-10-03T16:09:32.130Z,13.6234,-49.4518,10,4.3,mb,,257,9.033,1.07,us,us10003ncd,2016-01-04T22:28:57.040Z,"North Atlantic Ocean",earthquake,5.2,2,0.153,12,reviewed,us,us
+2015-10-03T16:51:17.400Z,18.4726,-64.3585,21,2.6,Md,6,252,0.04491576,0.12,pr,pr15276003,2016-01-04T22:28:57.040Z,"27km ENE of Road Town, British Virgin Islands",earthquake,1.8,0.8,0,6,reviewed,pr,pr
+2015-10-03T18:27:52.100Z,-30.6127,-71.7054,25.38,4,mwr,,128,0.086,0.89,us,us10003k1w,2016-01-04T22:28:58.040Z,"48km W of Ovalle, Chile",earthquake,1.3,5.3,0.048,41,reviewed,us,us
+2015-10-03T18:59:37.000Z,-30.779,-71.414,48.9,4.2,mb,,,,0.96,us,us10003k1x,2016-01-04T22:28:58.040Z,"28km SW of Ovalle, Chile",earthquake,5.1,5.2,0.236,6,reviewed,guc,us
+2015-10-03T19:43:21.150Z,-29.4375,-71.2152,41.46,4.4,mb,,94,0.479,1.26,us,us10003k23,2016-01-04T22:28:58.040Z,"52km N of La Serena, Chile",earthquake,4.7,5.6,0.161,11,reviewed,us,us
+2015-10-03T19:53:27.210Z,-38.3206,-74.2029,10,4.6,mb,,138,1.911,1.33,us,us10003k25,2016-01-04T22:28:58.040Z,"91km SW of Canete, Chile",earthquake,3.8,1.8,0.125,19,reviewed,us,us
+2015-10-03T23:23:31.640Z,-31.6756,-72.9083,10,3.9,mwr,,153,1.479,1.24,us,us10003k3v,2016-01-04T22:29:00.040Z,"165km W of Illapel, Chile",earthquake,5.6,1.9,0.055,32,reviewed,us,us
+2015-10-04T02:10:13.900Z,18.7735,-64.3186,36,2.6,Md,5,316.8,0.04491576,0.07,pr,pr15277000,2016-01-04T22:29:00.040Z,"50km NE of Road Town, British Virgin Islands",earthquake,1.9,0.7,0,4,reviewed,pr,pr
+2015-10-04T03:49:49.460Z,-30.3105,-72.1018,5.89,5.5,mww,,87,0.541,0.72,us,us10003k53,2016-02-19T01:56:40.000Z,"83km WSW of Coquimbo, Chile",earthquake,5.4,2.9,,,reviewed,us,us
+2015-10-04T04:48:30.000Z,19.1245,-66.4935,40,2.8,Md,11,273.6,0.64499037,0.34,pr,pr15277001,2016-01-04T22:29:01.040Z,"73km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,2.2,7.5,0,3,reviewed,pr,pr
+2015-10-04T04:49:17.600Z,19.1404,-66.5029,47,2.4,Md,5,306,0.66026173,0.27,pr,pr15277002,2015-10-04T08:01:38.610Z,"75km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,2.2,6.1,0,2,reviewed,pr,pr
+2015-10-04T05:28:08.800Z,18.412,-67.6764,10,2.9,Md,10,316.8,0.18954452,0.23,pr,pr15277003,2016-01-04T22:29:02.040Z,"45km W of Rincon, Puerto Rico",earthquake,1.4,0.8,0,9,reviewed,pr,pr
+2015-10-04T06:45:44.200Z,19.1068,-66.4783,13,2.6,Md,9,270,0.62792238,0.27,pr,pr15277004,2016-01-04T22:29:02.040Z,"71km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.8,2.9,0,3,reviewed,pr,pr
+2015-10-04T07:45:43.700Z,-57.8536,-25.4046,46.67,4.5,mb,,67,16.692,0.76,us,us10003nja,2016-01-04T22:29:03.040Z,"146km NNE of Bristol Island, South Sandwich Islands",earthquake,10.7,5.4,0.121,20,reviewed,us,us
+2015-10-04T07:47:36.100Z,19.2161,-64.8158,56,3,Md,3,288,0.66475331,0.2,pr,pr15277005,2016-01-04T22:29:03.040Z,"90km NNW of Road Town, British Virgin Islands",earthquake,4.2,7.6,0,1,reviewed,pr,pr
+2015-10-04T08:10:37.300Z,18.1072,-67.0824,24,1.8,Md,4,162,0.06737365,0.1,pr,pr15277006,2015-10-04T11:38:28.628Z,"2km N of Sabana Eneas, Puerto Rico",earthquake,0.8,1.1,0,3,reviewed,pr,pr
+2015-10-04T08:23:28.500Z,18.753,-64.3168,36,2.3,Md,5,320.4,0.02694946,0.1,pr,pr15277008,2015-10-04T12:04:26.691Z,"48km NE of Road Town, British Virgin Islands",earthquake,2,0.8,0,4,reviewed,pr,pr
+2015-10-04T09:06:41.190Z,-30.8202,-71.6631,35.62,4.1,mwr,,150,0.147,0.61,us,us10003k63,2016-01-04T22:29:04.040Z,"50km WSW of Ovalle, Chile",earthquake,5.6,4.6,0.052,36,reviewed,us,us
+2015-10-04T09:25:41.600Z,18.7089,-64.5863,28,2.4,Md,5,205.2,0.2407485,0.09,pr,pr15277007,2015-10-04T11:56:20.702Z,"32km N of Road Town, British Virgin Islands",earthquake,1.1,2.2,0,4,reviewed,pr,pr
+2015-10-04T10:11:56.000Z,-30.656,-71.627,29.9,5,mww,,,,0.87,us,us10003k6h,2016-02-19T01:56:43.000Z,"41km W of Ovalle, Chile",earthquake,4.2,3.3,,,reviewed,guc,us
+2015-10-04T12:16:36.000Z,-30.446,-71.601,28.9,4,mb,,,,0.85,us,us10003k74,2016-01-04T22:29:05.040Z,"42km WNW of Ovalle, Chile",earthquake,7.4,5.9,0.368,2,reviewed,guc,us
+2015-10-04T13:47:30.370Z,-23.8804,-66.6896,200.13,4.3,mb,,37,1.65,1.12,us,us10003k7c,2016-01-04T22:29:05.040Z,"53km NW of San Antonio de los Cobres, Argentina",earthquake,8.6,7.2,0.169,10,reviewed,us,us
+2015-10-04T13:50:15.500Z,14.2157,-92.6932,33.76,4.3,mb,,134,0.803,1.16,us,us10003njl,2016-01-04T22:29:05.040Z,"62km WSW of Ocos, Guatemala",earthquake,5.9,6.3,0.073,54,reviewed,us,us
+2015-10-04T14:50:34.390Z,-16.2684,-72.1052,92,5.3,mww,,119,2.684,0.83,us,us10003k7q,2016-02-19T01:56:44.000Z,"29km SSW of Lluta, Peru",earthquake,8.5,1.9,,,reviewed,us,us
+2015-10-04T15:56:40.730Z,-3.7887,-79.9273,57.7,4.6,mb,,162,4.262,1.03,us,us10003njn,2016-01-04T22:29:06.040Z,"33km WSW of Pinas, Ecuador",earthquake,11.1,8.8,0.095,33,reviewed,us,us
+2015-10-04T16:57:22.100Z,-30.5101,-72.1713,10,4.4,mwr,,110,0.49,0.54,us,us10003k82,2016-01-04T22:29:07.040Z,"93km W of Ovalle, Chile",earthquake,5.2,1.8,0.048,41,reviewed,us,us
+2015-10-04T17:58:13.470Z,-30.7106,-71.4883,35,4.2,mb,,104,0.131,0.89,us,us10003k8e,2016-01-04T22:29:07.040Z,"30km WSW of Ovalle, Chile",earthquake,4,2,0.525,1,reviewed,us,us
+2015-10-04T18:21:53.060Z,-30.2671,-71.7108,35,4.2,mb,,133,0.41,1.2,us,us10003k8l,2016-01-04T22:29:07.040Z,"49km SW of Coquimbo, Chile",earthquake,5.7,1.8,0.186,8,reviewed,us,us
+2015-10-04T21:29:02.130Z,12.7868,-88.2071,67.59,4.4,mb,,133,1.132,0.45,us,us10003k9m,2016-01-04T22:29:08.040Z,"48km S of Chirilagua, El Salvador",earthquake,6.2,8.1,0.1,29,reviewed,us,us
+2015-10-04T23:14:55.700Z,18.1608,-68.5008,211,3.8,Md,12,338.4,0.99533333,0.5,pr,pr15277009,2016-01-04T22:29:09.040Z,"26km SSE of Boca de Yuma, Dominican Republic",earthquake,7.3,2.3,0,7,reviewed,pr,pr
+2015-10-05T01:48:00.900Z,18.1872,-67.6877,7,3,Md,12,295.2,0.27847774,0.28,pr,pr15278000,2016-01-04T22:29:10.040Z,"48km WSW of Stella, Puerto Rico",earthquake,1.7,1.7,0,12,reviewed,pr,pr
+2015-10-05T02:02:51.370Z,-31.7828,-71.6072,34.92,3.9,mwr,,121,0.776,0.76,us,us10003kbc,2016-01-04T22:29:10.040Z,"45km WSW of Illapel, Chile",earthquake,5.6,4.5,0.066,22,reviewed,us,us
+2015-10-05T02:40:53.080Z,16.8517,-95.7622,64.46,4,mb,,76,0.873,1.22,us,us10003wf5,2016-01-04T22:29:10.040Z,"13km SSE of San Miguel Quetzaltepec, Mexico",earthquake,4.9,10,0.139,14,reviewed,us,us
+2015-10-05T05:04:56.410Z,-31.7308,-71.9781,33.6,4.3,mb,,149,0.987,0.45,us,us10003kbz,2016-01-04T22:29:11.040Z,"77km W of Illapel, Chile",earthquake,5.6,7.8,0.375,2,reviewed,us,us
+2015-10-05T05:59:02.880Z,-35.5274,-104.2397,10,4.8,mb,,128,24.714,0.8,us,us10003nkw,2016-02-19T01:56:48.000Z,"Southeast of Easter Island",earthquake,15.1,1.8,0.095,34,reviewed,us,us
+2015-10-05T06:22:49.000Z,17.9867,-65.4572,21,2.1,Md,4,266.4,0.14193381,0.07,pr,pr15278001,2015-10-05T07:27:30.280Z,"12km S of Esperanza, Puerto Rico",earthquake,1.8,2.6,0,2,reviewed,pr,pr
+2015-10-05T10:00:01.000Z,-15.7,-74.03,83,4.2,mb,,,,0.86,us,us10003kcw,2016-01-04T22:29:13.040Z,"69km ESE of Acari, Peru",earthquake,12.1,8.1,0.214,6,reviewed,lim,us
+2015-10-05T13:25:32.700Z,19.1802,-64.5077,71,3.4,Md,7,273.6,0.47790373,0.21,pr,pr15278002,2016-01-04T22:29:13.040Z,"85km N of Road Town, British Virgin Islands",earthquake,3.5,4.3,0,5,reviewed,pr,pr
+2015-10-05T16:33:26.780Z,-30.3035,-71.5318,34,5.9,mww,,30,0.379,0.76,us,us10003kg9,2016-02-19T01:56:51.000Z,"42km SSW of Coquimbo, Chile",earthquake,4.4,1.7,,,reviewed,us,us
+2015-10-05T17:30:53.290Z,-31.0879,-72.7469,10,4.6,mb,,89,1.041,1.32,us,us10003kgn,2016-01-04T22:29:14.040Z,"157km WSW of Ovalle, Chile",earthquake,5.6,1.9,0.104,28,reviewed,us,us
+2015-10-05T19:51:59.210Z,-24.1512,-67.3024,199.33,4.1,mb,,92,1.439,0.52,us,us10003nlb,2016-01-04T22:29:15.040Z,"100km W of San Antonio de los Cobres, Argentina",earthquake,9.9,14.8,0.368,2,reviewed,us,us
+2015-10-05T21:15:58.300Z,17.919,-67.1305,14,2.6,Md,9,248.4,0.0880349,0.28,pr,pr15278003,2016-01-04T22:29:16.040Z,"8km SE of Pole Ojea, Puerto Rico",earthquake,1.3,1,0,6,reviewed,pr,pr
+2015-10-05T21:51:38.000Z,-32.123,-71.751,34.5,4.2,mb,,,,1.24,us,us10003kjd,2016-01-04T22:29:16.040Z,"61km NW of La Ligua, Chile",earthquake,5.6,5.2,0.264,4,reviewed,guc,us
+2015-10-05T21:58:16.000Z,-32.082,-71.795,22.7,4.2,mb,,,,0.84,us,us10003kjt,2016-01-04T22:29:16.040Z,"67km NW of La Ligua, Chile",earthquake,4.6,5.7,0.215,6,reviewed,guc,us
+2015-10-06T02:00:57.540Z,-31.6899,-72.0962,20.68,4.2,mwr,,88,1.087,0.77,us,us10003kln,2016-01-04T22:29:17.040Z,"88km W of Illapel, Chile",earthquake,4.8,4.2,0.047,44,reviewed,us,us
+2015-10-06T03:48:15.660Z,7.3755,-36.1333,10,4.6,mb,,90,13.118,0.91,us,us10003nte,2016-01-04T22:29:18.040Z,"Central Mid-Atlantic Ridge",earthquake,7.4,1.9,0.164,11,reviewed,us,us
+2015-10-06T04:00:03.200Z,18.7397,-64.3655,41,2.2,Md,6,230.4,0.03323767,0.1,pr,pr15279000,2015-10-06T08:00:07.848Z,"44km NE of Road Town, British Virgin Islands",earthquake,2.3,0.9,0,4,reviewed,pr,pr
+2015-10-06T04:00:59.100Z,18.7341,-64.3551,41,2.9,Md,6,223.2,0.02155957,0.11,pr,pr15279001,2016-01-04T22:29:18.040Z,"44km NE of Road Town, British Virgin Islands",earthquake,1.9,0.9,0,5,reviewed,pr,pr
+2015-10-06T04:51:45.780Z,-30.2554,-72.0994,12.25,4.7,mwr,,142,0.578,0.68,us,us10003kme,2016-02-19T01:56:53.000Z,"80km WSW of Coquimbo, Chile",earthquake,3.5,3.9,0.049,40,reviewed,us,us
+2015-10-06T05:03:39.000Z,18.8976,-65.1682,57,2.9,Md,5,255.6,0.57941336,0.21,pr,pr15279002,2016-01-04T22:29:19.040Z,"66km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,9.4,11.1,0,4,reviewed,pr,pr
+2015-10-06T05:08:17.200Z,18.1217,-67.315,17,2.4,Md,6,208.8,0.22457882,0.23,pr,pr15279003,2015-10-06T08:02:29.480Z,"14km WNW of Puerto Real, Puerto Rico",earthquake,0.8,0.9,0,5,reviewed,pr,pr
+2015-10-06T05:37:56.100Z,18.3658,-65.5644,17,1.8,Md,4,208.8,0.26679964,0.12,pr,pr15279004,2015-10-06T08:03:19.684Z,"10km ENE of Fajardo, Puerto Rico",earthquake,0.8,3.8,0,4,reviewed,pr,pr
+2015-10-06T05:39:07.300Z,18.51,-104.571,20.9,4.1,mb,,,,1.18,us,us10003kml,2016-01-04T22:29:19.040Z,"65km SSW of Manzanillo, Mexico",earthquake,5.5,5.4,0.062,70,reviewed,unm,us
+2015-10-06T06:02:54.640Z,11.3695,-87.0252,31.46,4.5,mb,,134,1.105,0.91,us,us10003kmr,2016-01-04T22:29:19.040Z,"72km SW of Masachapa, Nicaragua",earthquake,6.3,6.6,0.077,49,reviewed,us,us
+2015-10-06T06:07:32.000Z,-25.21,-70.192,42.6,4.3,mwr,,,,1.27,us,us10003kms,2016-01-04T22:29:19.040Z,"36km NE of Taltal, Chile",earthquake,7.1,5.6,0.042,54,reviewed,guc,us
+2015-10-06T09:21:23.740Z,12.1177,-88.9955,29.55,5.1,mb,,84,1.576,1.12,us,us10003knh,2016-02-19T01:56:54.000Z,"137km SSW of Puerto El Triunfo, El Salvador",earthquake,6.4,3.9,0.024,556,reviewed,us,us
+2015-10-06T09:42:14.500Z,17.941,-67.1731,7,2.7,Md,4,324,0.0880349,0.23,pr,pr15279005,2016-01-04T22:29:21.040Z,"3km SSE of Pole Ojea, Puerto Rico",earthquake,1.5,0.6,0,4,reviewed,pr,pr
+2015-10-06T10:47:33.150Z,-31.432,-71.4573,42.76,4.7,mwr,,47,0.771,0.88,us,us10003knu,2016-01-04T22:29:21.040Z,"35km NW of Illapel, Chile",earthquake,5.9,3.9,0.044,50,reviewed,us,us
+2015-10-06T12:59:39.770Z,-30.3789,-71.8161,16.15,4.1,mb,,189,0.332,0.82,us,us10003kpb,2016-01-04T22:29:22.040Z,"63km WNW of Ovalle, Chile",earthquake,5,4.7,0.303,3,reviewed,us,us
+2015-10-06T13:09:03.330Z,-30.3927,-71.9603,10,4.2,mb,,95,0.396,0.85,us,us10003kpe,2016-01-04T22:29:22.040Z,"76km SW of Coquimbo, Chile",earthquake,5,1.9,0.186,8,reviewed,us,us
+2015-10-06T13:52:35.660Z,-31.6888,-71.9677,10,4.1,mb,,190,1.051,0.63,us,us10003kpi,2016-01-04T22:29:22.040Z,"76km W of Illapel, Chile",earthquake,4.6,1.9,0.521,1,reviewed,us,us
+2015-10-06T16:41:32.780Z,-20.003,-70.9795,12.95,4.2,mwr,,176,0.84,0.77,us,us10003kqa,2016-01-04T22:29:23.040Z,"90km WNW of Iquique, Chile",earthquake,4,5.4,0.049,40,reviewed,us,us
+2015-10-06T22:48:33.670Z,-30.8438,-71.4938,35.77,4.7,mwr,,79,0.208,0.68,us,us10003kt9,2016-01-04T22:29:24.040Z,"39km SW of Ovalle, Chile",earthquake,4.8,4.6,0.043,51,reviewed,us,us
+2015-10-07T01:08:26.400Z,18.889,-64.2565,34,2.6,Md,7,327.6,0.17337485,0.09,pr,pr15280000,2016-01-04T22:29:26.040Z,"64km NE of Road Town, British Virgin Islands",earthquake,1.6,0.6,0,5,reviewed,pr,pr
+2015-10-07T02:12:25.230Z,-30.3816,-72.0691,12.7,4.2,mb,,196,0.474,0.59,us,us10003kup,2016-01-04T22:29:26.040Z,"84km SW of Coquimbo, Chile",earthquake,4.2,3.9,0.374,2,reviewed,us,us
+2015-10-07T02:30:21.560Z,-3.932,-104.1362,10,5.4,mwb,,112,14.211,1.25,us,us10003kus,2016-02-19T01:56:57.000Z,"Central East Pacific Rise",earthquake,14,1.9,0.054,33,reviewed,us,us
+2015-10-07T02:49:31.560Z,-4.0507,-104.3905,10,4.5,mb,,233,23.093,1.21,us,us10003nux,2016-02-19T01:56:59.000Z,"Central East Pacific Rise",earthquake,10.8,2,0.103,28,reviewed,us,us
+2015-10-07T03:02:10.850Z,-30.8207,-71.4446,40.64,4.5,mb,,68,0.219,0.43,us,us10003kuw,2016-01-04T22:29:27.040Z,"33km SW of Ovalle, Chile",earthquake,3.2,6,0.124,19,reviewed,us,us
+2015-10-07T03:09:31.100Z,18.27,-65.3655,20,2.8,Md,7,176.4,0.08623827,0.07,pr,pr15280001,2016-01-04T22:29:27.040Z,"7km WSW of Culebra, Puerto Rico",earthquake,2.4,0.7,0,4,reviewed,pr,pr
+2015-10-07T03:31:55.100Z,18.694,-65.1408,62,2.5,Md,3,234,0.38358063,0.07,pr,pr15280002,2016-01-04T22:29:27.040Z,"44km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,6.3,4.4,0,3,reviewed,pr,pr
+2015-10-07T04:13:44.800Z,18.158,-67.1102,25,1.8,Md,3,230.4,0.02874609,0.05,pr,pr15280003,2015-10-07T07:58:53.289Z,"2km NE of Hormigueros, Puerto Rico",earthquake,1,0.7,0,3,reviewed,pr,pr
+2015-10-07T04:45:54.960Z,-30.3764,-72.1749,11.91,4.1,mb,,196,0.552,0.7,us,us10003kvi,2016-01-04T22:29:29.040Z,"92km WSW of Coquimbo, Chile",earthquake,2.5,6,0.261,4,reviewed,us,us
+2015-10-07T04:47:04.100Z,17.85,-66.165,12,2,Md,4,324,0.12666246,0.2,pr,pr15280004,2015-10-07T07:59:33.603Z,"11km S of Jobos, Puerto Rico",earthquake,1.7,0.8,0,3,reviewed,pr,pr
+2015-10-07T05:59:13.080Z,-17.7468,-69.7891,127.93,4.8,mb,,89,0.813,1.26,us,us10003kvp,2016-02-19T01:57:00.000Z,"39km SE of Tarata, Peru",earthquake,6.4,5.6,0.036,233,reviewed,us,us
+2015-10-07T06:41:36.710Z,16.2342,-98.2004,17.84,4.3,mb,,204,0.172,1.34,us,us10003kw0,2016-01-04T22:29:30.040Z,"21km WSW of Santiago Pinotepa Nacional, Mexico",earthquake,8.1,9.4,0.06,78,reviewed,us,us
+2015-10-07T07:07:20.930Z,-21.4172,-66.8022,231.23,4.4,mb,,80,1.99,1.01,us,us10003kw2,2016-01-04T22:29:30.040Z,"79km SW of Atocha, Bolivia",earthquake,7.4,8.8,0.139,15,reviewed,us,us
+2015-10-07T07:29:02.400Z,-30.3022,-72.1414,10.19,4.2,mwr,,146,0.572,1.17,us,us10003kw3,2016-01-04T22:29:30.040Z,"86km WSW of Coquimbo, Chile",earthquake,4.8,5.2,0.047,43,reviewed,us,us
+2015-10-07T08:00:39.980Z,-30.2971,-71.3616,8.74,4.8,mb,,84,0.392,1.41,us,us10003kwa,2016-01-04T22:29:31.040Z,"36km NNW of Ovalle, Chile",earthquake,5.7,4.9,0.134,17,reviewed,us,us
+2015-10-07T08:39:57.900Z,18.1672,-67.099,25,2.3,Md,4,230.4,0.01527136,0.09,pr,pr15280005,2015-10-07T12:07:36.240Z,"4km NE of Hormigueros, Puerto Rico",earthquake,1,0.6,0,4,reviewed,pr,pr
+2015-10-07T09:08:37.220Z,14.577,-94.5473,10,4.1,mb,,194,2.762,1.02,us,us10003nvt,2016-01-04T22:29:31.040Z,"176km SSW of Paredon, Mexico",earthquake,8.6,2,0.139,14,reviewed,us,us
+2015-10-07T12:34:36.930Z,-31.4877,-71.7728,23.77,4.5,mb,,143,0.819,0.67,us,us10003kx5,2016-01-04T22:29:32.040Z,"59km WNW of Illapel, Chile",earthquake,5.3,3.6,0.144,21,reviewed,us,us
+2015-10-07T13:06:42.110Z,-31.8261,-72.4314,10,4.2,mb,,124,1.335,0.57,us,us10003kx9,2016-01-04T22:29:32.040Z,"121km W of Illapel, Chile",earthquake,3.1,1.9,0.199,7,reviewed,us,us
+2015-10-07T14:18:54.500Z,18.9104,-64.3107,18,2.5,Md,4,306,0.18056137,0.2,pr,pr15280006,2016-01-04T22:29:33.040Z,"63km NNE of Road Town, British Virgin Islands",earthquake,5.5,0.8,0,1,reviewed,pr,pr
+2015-10-07T14:35:47.480Z,6.8568,-73.024,146.92,4.1,mb,,75,0.959,0.63,us,us10003nvi,2016-01-04T22:29:33.040Z,"14km S of Piedecuesta, Colombia",earthquake,9.7,7.4,0.151,12,reviewed,us,us
+2015-10-07T19:35:16.990Z,-30.8102,-71.4315,39.13,4.5,mb,,57,0.221,0.74,us,us10003kzs,2016-01-04T22:29:35.040Z,"32km SW of Ovalle, Chile",earthquake,5.8,7.6,0.221,6,reviewed,us,us
+2015-10-07T21:01:58.400Z,19.6655,-64.3407,44,3.2,Md,6,320.4,0.92975632,0.17,pr,pr15280007,2016-01-04T22:29:35.040Z,"141km NNE of Road Town, British Virgin Islands",earthquake,3.6,11.4,0,4,reviewed,pr,pr
+2015-10-07T21:04:10.100Z,17.9074,-65.6845,19,1.9,Md,3,291.6,0.22637545,0.18,pr,pr15280008,2015-10-08T01:07:54.679Z,"22km SE of El Negro, Puerto Rico",earthquake,1.9,1,0,1,reviewed,pr,pr
+2015-10-07T22:14:27.000Z,-21.97,-69.928,50.4,3.9,ml,,,,0.53,us,us10003xpg,2016-01-04T22:29:35.040Z,"30km ENE of Tocopilla, Chile",earthquake,4,5.8,,,reviewed,guc,guc
+2015-10-07T23:43:11.230Z,-31.6195,-72.3947,10,4.1,mb,,196,1.145,0.95,us,us10003l1k,2016-01-04T22:29:36.040Z,"116km W of Illapel, Chile",earthquake,7.1,1.9,0.214,6,reviewed,us,us
+2015-10-08T00:15:31.240Z,15.8047,-95.9373,8.72,4.3,mb,,156,0.168,1.03,us,us10003l23,2016-01-11T21:07:14.040Z,"19km SE of Santa Maria Xadani, Mexico",earthquake,9.7,10.9,0.063,71,reviewed,us,us
+2015-10-08T01:56:07.000Z,18.7605,-66.8871,63,2.9,Md,11,248.4,0.35932611,0.23,pr,pr15281000,2016-01-11T21:07:15.040Z,"30km N of Camuy, Puerto Rico",earthquake,1.4,1.8,0,11,reviewed,pr,pr
+2015-10-08T02:30:25.100Z,19.423,-66.2918,10,3.2,Md,11,284.4,1.12558905,0.23,pr,pr15281001,2016-01-11T21:07:15.040Z,"105km N of Brenas, Puerto Rico",earthquake,4.2,5.8,0,11,reviewed,pr,pr
+2015-10-08T02:42:24.320Z,-23.9928,-69.1547,101.6,4.5,mb,,69,0.833,0.97,us,us10003l2j,2016-01-11T21:07:15.040Z,"132km ESE of Antofagasta, Chile",earthquake,5,3.8,0.15,13,reviewed,us,us
+2015-10-08T02:54:18.280Z,-30.3382,-71.9937,15.46,4.1,mb,,201,0.455,0.71,us,us10003l2m,2016-01-11T21:07:15.040Z,"75km SW of Coquimbo, Chile",earthquake,3.3,3.4,0.262,4,reviewed,us,us
+2015-10-08T03:10:33.700Z,18.6497,-64.7611,5,3,Md,8,183.6,0.26949459,0.2,pr,pr15281002,2016-01-11T21:07:15.040Z,"29km NNW of Road Town, British Virgin Islands",earthquake,0.6,0.9,0,5,reviewed,pr,pr
+2015-10-08T07:22:46.290Z,-30.6725,-71.7478,29.3,4.3,mwr,,83,0.097,0.76,us,us10003l31,2016-01-11T21:07:15.040Z,"53km W of Ovalle, Chile",earthquake,5.8,2.4,0.061,26,reviewed,us,us
+2015-10-08T08:21:35.600Z,19.4244,-66.0658,86,3.4,Md,7,284.4,1.16331829,0.18,pr,pr15281004,2016-01-11T21:07:15.040Z,"106km N of San Juan, Puerto Rico",earthquake,4.1,6.9,0,6,reviewed,pr,pr
+2015-10-08T08:46:14.130Z,-30.7116,-71.6621,35.25,4.1,mb,,189,0.044,1.18,us,us10003l3b,2016-01-11T21:07:15.040Z,"46km WSW of Ovalle, Chile",earthquake,8.4,4.5,0.303,3,reviewed,us,us
+2015-10-08T10:02:41.500Z,18.4361,-67.4466,17,2.6,Md,4,244.8,0.05928881,0.37,pr,pr15281003,2016-01-11T21:07:15.040Z,"23km WNW of Rincon, Puerto Rico",earthquake,3.9,2.6,0,4,reviewed,pr,pr
+2015-10-08T14:54:02.600Z,18.2695,-66.136,33,2.3,Md,6,165.6,0.3000373,0.15,pr,pr15281005,2015-10-08T17:03:38.758Z,"3km WNW of Aguas Buenas, Puerto Rico",earthquake,1.1,2.1,0,5,reviewed,pr,pr
+2015-10-08T17:20:16.400Z,17.9071,-67.1072,9,1.9,Md,4,313.2,0.08623827,0.23,pr,pr15281006,2015-10-08T20:21:45.304Z,"9km SW of La Parguera, Puerto Rico",earthquake,1.7,1,0,4,reviewed,pr,pr
+2015-10-08T20:04:37.920Z,-17.4579,-71.9286,51.02,4.6,mb,,184,1.762,0.4,us,us10003zdh,2016-01-11T21:07:16.040Z,"34km SSW of Punta de Bombon, Peru",earthquake,12.3,23.9,0.544,1,reviewed,us,us
+2015-10-08T20:20:42.700Z,17.6457,-65.6333,14,2.7,Md,3,309.6,0.45544585,0.1,pr,pr15281007,2016-01-11T21:07:16.040Z,"47km SE of Emajagua, Puerto Rico",earthquake,1.1,1.2,0,3,reviewed,pr,pr
+2015-10-09T00:05:29.100Z,18.6061,-66.7509,12,2.6,Md,5,266.4,0.24524007,0.2,pr,pr15282000,2016-01-11T21:07:16.040Z,"14km NNE of Carrizales, Puerto Rico",earthquake,1.3,0.7,0,5,reviewed,pr,pr
+2015-10-09T01:31:28.100Z,17.9377,-66.9048,13,2.3,Md,5,212.4,0.13564561,0.14,pr,pr15282001,2015-10-09T03:49:01.487Z,"3km S of Guanica, Puerto Rico",earthquake,2.1,3.1,0,5,reviewed,pr,pr
+2015-10-09T02:33:33.890Z,-57.4121,-24.7532,3.81,5,mb,,53,7.31,0.71,us,us10003mdm,2016-01-11T21:07:16.040Z,"168km ESE of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,10.7,3.3,0.079,51,reviewed,us,us
+2015-10-09T03:52:21.800Z,19.0182,-65.3592,25,3.2,Md,4,262.8,0.70966907,0.3,pr,pr15282002,2016-01-11T21:07:16.040Z,"79km N of Culebra, Puerto Rico",earthquake,2.4,24.2,0,3,reviewed,pr,pr
+2015-10-09T04:09:35.490Z,-15.9943,-69.7699,208.07,4.6,mb,,130,1.602,0.77,us,us10003mdx,2016-01-11T21:07:16.040Z,"14km NW of Ilave, Peru",earthquake,6.8,3.6,0.04,187,reviewed,us,us
+2015-10-09T05:54:09.700Z,17.9207,-66.8884,12,2.5,Md,9,223.2,0.15451023,0.1,pr,pr15282003,2016-01-11T21:07:16.040Z,"5km SSE of Guanica, Puerto Rico",earthquake,0.8,0.6,0,6,reviewed,pr,pr
+2015-10-09T06:08:55.970Z,-30.8494,-71.5687,46.36,4.6,mww,,82,0.184,0.59,us,us10003me8,2016-01-11T21:07:16.040Z,"44km SW of Ovalle, Chile",earthquake,2,4,,,reviewed,us,us
+2015-10-09T06:52:34.750Z,-31.5296,-71.4782,39.25,4,ml,,142,0.863,0.45,us,us10003meb,2016-01-11T21:07:16.040Z,"31km WNW of Illapel, Chile",earthquake,3.9,12.1,,,reviewed,us,guc
+2015-10-09T08:20:39.650Z,-31.0489,-71.2989,52.53,4.4,mb,,134,0.472,0.71,us,us10003mel,2016-01-11T21:07:16.040Z,"50km S of Ovalle, Chile",earthquake,4.9,3.3,0.379,2,reviewed,us,us
+2015-10-09T10:38:22.010Z,-30.578,-72.3973,10,4.3,mwr,,88,0.664,1.45,us,us10003mg0,2016-01-11T21:07:17.040Z,"114km W of Ovalle, Chile",earthquake,4.3,1.8,0.066,22,reviewed,us,us
+2015-10-09T11:47:02.230Z,-2.4263,-79.5858,78.81,4.5,mb,,75,2.879,0.81,us,us10003mg3,2016-01-11T21:07:17.040Z,"25km SSW of Naranjito, Ecuador",earthquake,8.6,7.7,0.061,79,reviewed,us,us
+2015-10-09T12:45:39.140Z,-30.137,-72.1387,10,4.3,mwr,,88,0.689,1.39,us,us10003mg9,2016-01-11T21:07:17.040Z,"79km WSW of Coquimbo, Chile",earthquake,2.3,1.8,0.053,34,reviewed,us,us
+2015-10-09T17:08:55.490Z,-8.0706,-79.1971,35,4,mb,,156,6.44,1.19,us,us10003mj9,2016-01-11T21:07:17.040Z,"13km SSE of Santiago de Cao, Peru",earthquake,10.9,2,0.195,7,reviewed,us,us
+2015-10-09T18:27:36.650Z,-31.7323,-71.7325,35,5.5,mww,,34,1.058,1.18,us,us10003mjs,2016-02-19T01:57:06.000Z,"54km WSW of Illapel, Chile",earthquake,3.9,1.8,,,reviewed,us,us
+2015-10-09T18:46:44.000Z,17.836,-65.5558,3,2.4,Md,8,223.2,0.2587148,0.63,pr,pr15282004,2015-10-09T19:58:48.099Z,"30km SSW of Esperanza, Puerto Rico",earthquake,1.7,2.3,0,8,reviewed,pr,pr
+2015-10-09T19:34:09.000Z,-31.7373,-72.2605,14.05,4.1,mwr,,197,1.187,0.72,us,us10003mka,2016-01-11T21:07:17.040Z,"104km W of Illapel, Chile",earthquake,6.4,8,0.05,38,reviewed,us,us
+2015-10-09T22:18:19.090Z,-30.607,-71.399,55.2,4.1,mwr,,,,1.12,us,us10003mm3,2016-01-11T21:07:17.040Z,"19km W of Ovalle, Chile",earthquake,5.1,4.3,0.066,22,reviewed,guc,us
+2015-10-10T01:36:43.200Z,18.4664,-66.247,120,2.7,Md,10,180,0.22008724,0.3,pr,pr15283000,2016-01-11T21:07:17.040Z,"2km ENE of Dorado, Puerto Rico",earthquake,3.2,1.3,0,8,reviewed,pr,pr
+2015-10-10T05:06:28.880Z,-22.9691,-66.4436,225.24,4.6,mwr,,95,1.599,0.81,us,us10003mn2,2016-01-11T21:07:18.040Z,"81km WSW of Abra Pampa, Argentina",earthquake,9.5,8.4,,,reviewed,us,guc
+2015-10-10T05:25:27.690Z,15.7923,-94.7221,34.46,4.2,mb,,130,1.3,1.24,us,us10003mn5,2016-01-11T21:07:18.040Z,"49km S of San Francisco del Mar, Mexico",earthquake,1.7,6.8,0.088,36,reviewed,us,us
+2015-10-10T06:00:23.300Z,-24.4242,-67.0143,164.23,4.9,mb,,42,1.813,0.75,us,us10003mnb,2016-02-19T01:57:07.000Z,"74km WSW of San Antonio de los Cobres, Argentina",earthquake,6.6,5.8,0.067,69,reviewed,us,us
+2015-10-10T07:50:07.100Z,18.2145,-67.3874,28,2.5,Md,8,201.6,0.18954452,0.2,pr,pr15283001,2016-01-11T21:07:18.040Z,"19km SW of Stella, Puerto Rico",earthquake,0.9,1.6,0,6,reviewed,pr,pr
+2015-10-10T08:44:29.600Z,17.863,-67.18,5,1.8,Md,3,324,0.15720517,0.07,pr,pr15283002,2015-10-10T12:05:30.914Z,"12km S of Pole Ojea, Puerto Rico",earthquake,1,0.6,0,1,reviewed,pr,pr
+2015-10-10T08:58:37.420Z,-30.6505,-72.1357,11.35,4.5,mwr,,180,0.432,1.06,us,us10003mnr,2016-01-11T21:07:18.040Z,"89km W of Ovalle, Chile",earthquake,2.9,4.9,0.044,49,reviewed,us,us
+2015-10-10T09:12:46.400Z,18.811,-64.838,64,3.1,Md,6,248.4,0.44466607,0.1,pr,pr15283003,2016-01-11T21:07:18.040Z,"49km NNW of Road Town, British Virgin Islands",earthquake,4.2,3.3,0,5,reviewed,pr,pr
+2015-10-10T10:39:52.700Z,17.8603,-67.18,4,2.1,Md,3,324,0.15900181,0,pr,pr15283004,2015-10-10T12:50:31.420Z,"12km S of Pole Ojea, Puerto Rico",earthquake,0.8,0.5,0,2,reviewed,pr,pr
+2015-10-10T12:18:09.600Z,18.9645,-64.8841,28,3,Md,6,259.2,0.61354934,0.23,pr,pr15283005,2016-01-11T21:07:18.040Z,"66km NNW of Road Town, British Virgin Islands",earthquake,3.4,16.2,0,4,reviewed,pr,pr
+2015-10-10T13:16:34.000Z,-30.52,-71.558,25.4,4.2,mb,,,,0.87,us,us10003mp6,2016-01-11T21:07:18.040Z,"35km WNW of Ovalle, Chile",earthquake,6.3,6.5,0.372,2,reviewed,guc,us
+2015-10-10T14:26:04.000Z,-31.77,-71.654,40.1,4.1,ml,,,,0,us,us10003mp9,2016-01-11T21:07:18.040Z,"48km WSW of Illapel, Chile",earthquake,0,0,,,reviewed,guc,guc
+2015-10-10T17:13:16.300Z,18.6534,-66.4954,67,2.4,Md,14,226.8,0.17696811,0.18,pr,pr15283006,2015-10-10T19:40:12.152Z,"21km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.7,0.7,0,12,reviewed,pr,pr
+2015-10-10T19:33:29.400Z,18.7814,-64.2117,44,2.3,Md,3,324,0.12576414,0.28,pr,pr15283007,2015-10-11T00:02:36.622Z,"58km NE of Road Town, British Virgin Islands",earthquake,12.2,3,0,3,reviewed,pr,pr
+2015-10-10T23:08:24.720Z,-30.3478,-72.6171,10,4.4,mb,,150,0.907,1.02,us,us10003mr9,2016-01-11T21:07:19.040Z,"130km WSW of Coquimbo, Chile",earthquake,4.2,1.9,0.189,8,reviewed,us,us
+2015-10-10T23:35:24.720Z,-55.1568,-28.301,10,4.6,mb,,114,4.826,0.73,us,us10003ppa,2016-01-11T21:07:19.040Z,"185km NNW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,12.5,1.9,0.136,16,reviewed,us,us
+2015-10-11T00:16:12.500Z,18.8346,-65.0006,20,2.6,Md,3,262.8,0.58839651,0.17,pr,pr15284000,2016-01-11T21:07:19.040Z,"55km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.2,16.2,0,2,reviewed,pr,pr
+2015-10-11T00:26:58.200Z,18.1429,-67.2659,22,2.4,Md,10,187.2,0.17337485,0.07,pr,pr15284001,2015-10-11T04:39:04.896Z,"11km NW of Puerto Real, Puerto Rico",earthquake,0.5,0.8,0,9,reviewed,pr,pr
+2015-10-11T02:33:32.510Z,-30.7276,-71.4836,38.54,4.6,mb,,49,0.141,0.56,us,us10003ms7,2016-01-11T21:07:19.040Z,"30km WSW of Ovalle, Chile",earthquake,6.7,3.1,0.088,38,reviewed,us,us
+2015-10-11T02:43:35.500Z,19.354,-65.7133,76,3,Md,9,291.6,1.08516486,0.18,pr,pr15284002,2016-01-11T21:07:19.040Z,"103km N of Vieques, Puerto Rico",earthquake,2.8,5.6,0,5,reviewed,pr,pr
+2015-10-11T04:14:27.800Z,18.8934,-65.468,9,3,Md,15,219.6,0.60905776,0.36,pr,pr15284003,2016-01-11T21:07:19.040Z,"63km NNE of Luquillo, Puerto Rico",earthquake,1.1,2.2,0,9,reviewed,pr,pr
+2015-10-11T08:33:50.900Z,19.1448,-66.4785,37,3.3,Md,20,234,0.66475331,0.23,pr,pr15284004,2016-01-11T21:07:20.040Z,"75km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1,4.8,0,14,reviewed,pr,pr
+2015-10-11T10:15:19.170Z,16.5627,-62.4367,131.78,4.1,mb,,107,1.061,0.75,us,us10003mu4,2016-01-11T21:07:20.040Z,"28km WSW of Plymouth, Montserrat",earthquake,8.9,13.5,0.157,11,reviewed,us,us
+2015-10-11T13:13:40.500Z,18.1425,-67.3425,9,2.4,Md,5,302.4,0.2587148,0.14,pr,pr15284005,2015-10-11T17:27:10.099Z,"18km WNW of Puerto Real, Puerto Rico",earthquake,2.2,2,0,5,reviewed,pr,pr
+2015-10-11T13:59:24.540Z,-31.3907,-69.2462,116.79,4.2,mb,,63,0.504,0.97,us,us10003muw,2016-01-11T21:07:20.040Z,"16km ESE of Calingasta, Argentina",earthquake,6,6.8,0.373,2,reviewed,us,us
+2015-10-11T15:47:14.900Z,18.6025,-64.0436,62,2.7,Md,8,284.4,0.30093562,0.28,pr,pr15284006,2016-01-11T21:07:20.040Z,"63km ENE of Road Town, British Virgin Islands",earthquake,2,1.7,0,7,reviewed,pr,pr
+2015-10-11T16:54:58.280Z,-30.631,-71.8858,24.09,4.6,mwr,,86,0.22,1.21,us,us10003mve,2016-01-11T21:07:20.040Z,"65km W of Ovalle, Chile",earthquake,5.9,4,0.041,56,reviewed,us,us
+2015-10-11T18:04:42.800Z,17.9424,-66.8961,12,2.1,Md,12,180,0.03593261,0.25,pr,pr15284007,2015-10-11T19:50:48.086Z,"3km SSE of Guanica, Puerto Rico",earthquake,0.8,0.4,0,10,reviewed,pr,pr
+2015-10-11T21:22:17.270Z,-28.05,-66.3784,159.03,4.2,mb,,102,2.728,0.89,us,us10003pqg,2016-01-11T21:07:20.040Z,"37km NW of Mutquin, Argentina",earthquake,8.6,7.6,0.158,11,reviewed,us,us
+2015-10-11T21:23:44.580Z,-30.7119,-71.3982,40.45,4.7,mb,,44,0.207,0.51,us,us10003pqf,2016-01-11T21:07:20.040Z,"22km SW of Ovalle, Chile",earthquake,3.8,5.2,0.209,7,reviewed,us,us
+2015-10-11T23:06:22.500Z,17.466,-94.8199,147.3,4.3,mb,,,,0.96,us,us10003mwj,2016-01-11T21:07:21.040Z,"22km E of Jesus Carranza, Mexico",earthquake,8.2,8.4,0.049,119,reviewed,unm,us
+2015-10-11T23:46:25.110Z,16.3928,-100.2169,14.2,4.1,mb,,211,0.653,0.85,us,us10003pqk,2016-01-11T21:07:21.040Z,"62km SSW of Acapulco de Juarez, Mexico",earthquake,6.1,8.6,0.076,47,reviewed,us,us
+2015-10-12T00:29:44.900Z,18.8076,-64.249,38,2.8,Md,10,327.6,0.11049278,0.07,pr,pr15285000,2016-01-11T21:07:21.040Z,"58km NE of Road Town, British Virgin Islands",earthquake,2.2,0.8,0,5,reviewed,pr,pr
+2015-10-12T00:45:43.200Z,18.2278,-67.2135,106,2.8,Md,7,226.8,0.13115403,0.25,pr,pr15285001,2016-01-11T21:07:21.040Z,"7km SSW of La Playa, Puerto Rico",earthquake,2.4,1.5,0,6,reviewed,pr,pr
+2015-10-12T01:46:46.570Z,-30.7384,-71.5254,35.4,4.2,mb,,61,0.114,1.13,us,us10003mwz,2016-01-11T21:07:21.040Z,"34km WSW of Ovalle, Chile",earthquake,4.9,8.4,0.186,8,reviewed,us,us
+2015-10-12T02:25:43.310Z,-25.4308,-69.2815,120.52,4.1,mb,,98,1.295,1.49,us,us10003mx4,2016-01-11T21:07:21.040Z,"120km E of Taltal, Chile",earthquake,7.6,8.6,0.197,7,reviewed,us,us
+2015-10-12T02:26:14.200Z,17.9946,-66.855,15,1.5,Md,5,183.6,0.18145969,0.2,pr,pr15285002,2015-10-12T05:55:21.218Z,"2km SE of Palomas, Puerto Rico",earthquake,0.8,3.6,0,5,reviewed,pr,pr
+2015-10-12T02:59:05.000Z,-32.114,-71.78,37.4,4.1,mb,,,,0.89,us,us10003mx7,2016-01-11T21:07:21.040Z,"63km NW of La Ligua, Chile",earthquake,6.9,7.3,0.184,8,reviewed,guc,us
+2015-10-12T03:15:19.160Z,-31.1849,-71.8227,21,5.6,mww,,45,0.534,0.89,us,us10003mxa,2016-02-19T01:57:18.000Z,"79km NW of Illapel, Chile",earthquake,5.1,1.8,,,reviewed,us,us
+2015-10-12T03:31:32.270Z,-31.1866,-71.8325,19.65,5,mwr,,82,0.538,0.97,us,us10003mxb,2016-01-11T21:07:21.040Z,"80km NW of Illapel, Chile",earthquake,5.8,3,,,reviewed,us,guc
+2015-10-12T04:16:09.000Z,-13.9,-76.19,46,4.3,mb,,,,1.57,us,us2000418i,2016-01-11T21:07:21.040Z,"9km ESE of Paracas, Peru",earthquake,11.2,8.9,0.266,4,reviewed,lim,us
+2015-10-12T04:26:49.000Z,-23.9547,-67.0225,189.86,4,mb,,54,1.457,1.27,us,us10003ngu,2016-01-11T21:07:21.040Z,"77km WNW of San Antonio de los Cobres, Argentina",earthquake,5.2,8.5,0.184,8,reviewed,us,us
+2015-10-12T04:35:40.770Z,7.5362,-77.476,10,5.2,mb,,24,1.112,1.33,us,us10003mxh,2016-02-19T01:57:19.000Z,"41km WNW of Riosucio, Colombia",earthquake,5.6,1.8,0.03,352,reviewed,us,us
+2015-10-12T04:36:45.000Z,-31.569,-65.114,10.2,3.1,md,,,,2.24,us,us10003p12,2016-01-11T21:07:21.040Z,"17km NNW of Villa Cura Brochero, Argentina",earthquake,9.9,8.2,,,reviewed,sja,sja
+2015-10-12T04:50:18.000Z,-31.186,-71.735,26.4,4,mb,,,,1.04,us,us10003mxi,2016-01-11T21:07:21.040Z,"73km NW of Illapel, Chile",earthquake,6.3,6.3,0.231,5,reviewed,guc,us
+2015-10-12T05:10:19.700Z,-31.1388,-71.9383,37.17,4.1,mb,,188,0.531,0.77,us,us10003mxk,2016-01-11T21:07:21.040Z,"91km NW of Illapel, Chile",earthquake,6.5,13.7,0.371,2,reviewed,us,us
+2015-10-12T05:50:58.730Z,13.9043,-92.3265,35,4.2,mb,,177,0.869,1.46,us,us10003mxl,2016-01-11T21:07:21.040Z,"62km SW of Champerico, Guatemala",earthquake,4.8,2,0.084,40,reviewed,us,us
+2015-10-12T06:42:07.900Z,18.9965,-64.8015,37,3,Md,10,244.8,0.51653129,0.28,pr,pr15285003,2016-01-11T21:07:21.040Z,"67km NNW of Road Town, British Virgin Islands",earthquake,2.9,8.1,0,6,reviewed,pr,pr
+2015-10-12T06:57:20.100Z,17.9811,-66.8636,11,2.1,Md,4,194.4,0.17247653,0.23,pr,pr15285004,2015-10-12T08:16:07.996Z,"2km E of Maria Antonia, Puerto Rico",earthquake,1.4,5.2,0,2,reviewed,pr,pr
+2015-10-12T06:58:57.750Z,-29.6534,-71.7064,55.99,4.5,mb,,123,0.485,0.54,us,us10003mxp,2016-01-11T21:07:21.040Z,"48km NW of Coquimbo, Chile",earthquake,5.7,6.6,0.27,4,reviewed,us,us
+2015-10-12T10:12:07.900Z,18.281,-66.0167,135,3,Md,20,151.2,0.06827196,0.21,pr,pr15285005,2016-01-11T21:07:22.040Z,"3km NE of Bairoa, Puerto Rico",earthquake,2.3,1,0,18,reviewed,pr,pr
+2015-10-12T10:27:59.000Z,-30.429,-71.684,31.3,4.2,ml,,,,1.14,us,us10003myl,2016-01-11T21:07:22.040Z,"50km WNW of Ovalle, Chile",earthquake,3.7,6.9,,,reviewed,guc,guc
+2015-10-12T11:42:07.400Z,18.8164,-64.3165,39,3.1,Md,8,316.8,0.0880349,0.09,pr,pr15285006,2016-01-11T21:07:22.040Z,"54km NE of Road Town, British Virgin Islands",earthquake,1.9,0.7,0,7,reviewed,pr,pr
+2015-10-12T14:09:42.560Z,-31.1368,-71.9608,19.16,4.5,mb,,134,0.539,0.89,us,us10003mz0,2016-01-11T21:07:22.040Z,"93km NW of Illapel, Chile",earthquake,5,3.7,0.118,21,reviewed,us,us
+2015-10-12T14:47:59.500Z,-31.1283,-71.8206,34.6,4,mb,,190,0.48,0.72,us,us10003mz7,2016-01-11T21:07:22.040Z,"83km SW of Ovalle, Chile",earthquake,7.1,6.1,0.366,2,reviewed,us,us
+2015-10-12T14:59:21.220Z,-30.5627,-71.697,26.22,4.2,mwr,,120,0.123,0.76,us,us10003mze,2016-01-11T21:07:22.040Z,"47km W of Ovalle, Chile",earthquake,4.9,3.7,0.047,43,reviewed,us,us
+2015-10-12T15:18:53.770Z,12.8958,-88.4702,62.55,4.7,mb,,130,1.08,0.95,us,us10003n1l,2016-01-11T21:07:22.040Z,"43km SSE of Puerto El Triunfo, El Salvador",earthquake,5.8,4.3,0.031,311,reviewed,us,us
+2015-10-12T16:01:02.690Z,-30.784,-71.5077,35.72,4.6,mb,,72,0.155,1.03,us,us10003n1t,2016-01-11T21:07:22.040Z,"35km SW of Ovalle, Chile",earthquake,4.4,6.1,0.119,21,reviewed,us,us
+2015-10-12T16:46:43.840Z,-30.5918,-71.7146,20.02,4.6,mwr,,63,0.106,0.94,us,us10003n20,2016-01-11T21:07:22.040Z,"49km W of Ovalle, Chile",earthquake,4.3,3.3,0.047,43,reviewed,us,us
+2015-10-12T17:07:22.000Z,-33.392,-72.368,20,4.2,mwr,,,,1.44,us,us10003n28,2016-01-11T21:07:23.040Z,"72km WNW of San Antonio, Chile",earthquake,4.7,4.5,0.068,21,reviewed,guc,us
+2015-10-12T17:23:10.500Z,18.7035,-66.0643,53,2.2,Md,6,230.4,0.39256378,0.1,pr,pr15285008,2015-10-12T21:21:52.577Z,"26km N of San Juan, Puerto Rico",earthquake,1.2,1.2,0,4,reviewed,pr,pr
+2015-10-12T18:49:29.800Z,18.9013,-65.86,24,2.8,Md,9,241.2,0.62522744,0.11,pr,pr15285009,2016-01-11T21:07:23.040Z,"52km N of Loiza, Puerto Rico",earthquake,0.6,8.5,0,9,reviewed,pr,pr
+2015-10-12T18:52:53.800Z,18.915,-65.8615,26,3.2,Md,16,219.6,0.63780385,0.17,pr,pr15285007,2016-01-11T21:07:23.040Z,"53km N of Loiza, Puerto Rico",earthquake,0.7,7.2,0,13,reviewed,pr,pr
+2015-10-12T23:30:26.440Z,-30.4915,-72.1614,10,4.3,mwr,,91,0.489,0.99,us,us10003n55,2016-01-11T21:07:23.040Z,"92km W of Ovalle, Chile",earthquake,4.9,1.8,0.047,43,reviewed,us,us
+2015-10-12T23:57:02.400Z,18.2856,-68.0565,118,3.3,Md,13,327.6,0.91538327,0.2,pr,pr15285010,2016-01-11T21:07:23.040Z,"49km SE of Punta Cana, Dominican Republic",earthquake,2.2,1.3,0,12,reviewed,pr,pr
+2015-10-13T00:15:14.000Z,-30.713,-71.575,34.8,4.1,ml,,,,1.61,us,us10003n5f,2016-01-11T21:07:23.040Z,"38km WSW of Ovalle, Chile",earthquake,3.2,1.7,,,reviewed,guc,guc
+2015-10-13T01:05:31.390Z,-30.4356,-71.622,24.51,4.4,mb,,164,0.237,0.88,us,us10003n69,2016-01-11T21:07:23.040Z,"44km WNW of Ovalle, Chile",earthquake,4.8,2.8,0.309,3,reviewed,us,us
+2015-10-13T05:32:54.010Z,-22.6921,-66.3403,250.4,4.1,mb,,126,1.715,0.88,us,us10003q8a,2016-01-11T21:07:24.040Z,"66km W of Abra Pampa, Argentina",earthquake,9.9,8.8,0.525,1,reviewed,us,us
+2015-10-13T07:07:27.590Z,19.9756,-75.8527,23.77,4,mb,,61,0.699,0.96,us,us10003n85,2016-01-11T21:07:24.040Z,"6km SSW of Santiago de Cuba, Cuba",earthquake,3.6,7.2,0.299,3,reviewed,us,us
+2015-10-13T07:19:41.960Z,15.2675,-91.9282,10,4.2,mb,,128,0.413,0.61,us,us10003n86,2016-01-11T21:07:24.040Z,"6km NE of San Jose Ojetenan, Guatemala",earthquake,6.7,2,0.103,26,reviewed,us,us
+2015-10-13T09:17:17.290Z,-30.0825,-71.9132,10,4.3,mb,,191,0.607,1.11,us,us10003n89,2016-01-11T21:07:24.040Z,"56km WSW of Coquimbo, Chile",earthquake,3.2,2,0.376,2,reviewed,us,us
+2015-10-13T09:29:03.150Z,-34.0847,-72.3796,11.93,4.2,mwr,,63,0.766,1.02,us,us10003n8a,2016-01-11T21:07:24.040Z,"88km SW of San Antonio, Chile",earthquake,3.4,3.4,0.043,51,reviewed,us,us
+2015-10-13T09:47:32.600Z,17.8932,-68.6345,116,3.5,Md,7,338.4,1.20194585,0.56,pr,pr15286000,2016-01-11T21:07:24.040Z,"53km S of Boca de Yuma, Dominican Republic",earthquake,8.8,6.2,0,7,reviewed,pr,pr
+2015-10-13T11:01:39.900Z,18.7178,-67.026,59,2.8,Md,3,316.8,0.44915764,0.25,pr,pr15286001,2016-01-11T21:07:24.040Z,"24km N of Isabela, Puerto Rico",earthquake,3.1,3.9,0,3,reviewed,pr,pr
+2015-10-13T11:16:25.770Z,-30.5903,-71.4013,42.25,4.3,mb,,82,0.217,1.15,us,us10003q7q,2016-01-11T21:07:24.040Z,"19km W of Ovalle, Chile",earthquake,5.2,5.7,0.307,3,reviewed,us,us
+2015-10-13T12:45:55.740Z,-27.6585,-70.7834,61.16,4.2,mb,,158,0.491,1.46,us,us10003nad,2016-01-11T21:07:24.040Z,"54km SW of Copiapo, Chile",earthquake,2.1,7.1,0.306,3,reviewed,us,us
+2015-10-13T14:49:19.900Z,18.0076,-66.8155,11,2.1,Md,8,162,0.06737365,0.17,pr,pr15286002,2015-10-13T16:50:17.755Z,"1km NNE of Indios, Puerto Rico",earthquake,0.5,0.8,0,7,reviewed,pr,pr
+2015-10-13T15:14:36.200Z,18.8122,-65.2713,63,3,Md,4,241.2,0.50215824,0.11,pr,pr15286004,2016-01-11T21:07:24.040Z,"56km N of Culebra, Puerto Rico",earthquake,8.6,8.7,0,3,reviewed,pr,pr
+2015-10-13T15:44:46.100Z,18.0778,-65.0233,13,2.8,Md,8,118.8,0.28027437,0.27,pr,pr15286003,2016-01-11T21:07:24.040Z,"30km SSW of Charlotte Amalie, U.S. Virgin Islands",earthquake,0.5,1.2,0,8,reviewed,pr,pr
+2015-10-13T17:43:23.800Z,18.0287,-68.2656,114,3.3,Md,10,331.2,0.82645006,0.25,pr,pr15286005,2016-01-11T21:07:25.040Z,"53km SE of Boca de Yuma, Dominican Republic",earthquake,2.8,1.4,0,8,reviewed,pr,pr
+2015-10-13T17:46:58.470Z,-31.7512,-72.1625,10.2,3.9,mwr,,195,1.165,1.01,us,us10003nd8,2016-01-11T21:07:25.040Z,"95km W of Illapel, Chile",earthquake,6,4.5,0.051,37,reviewed,us,us
+2015-10-13T19:33:02.480Z,-31.2252,-71.57,40.84,4.1,mwr,,83,0.552,1.03,us,us10003ndh,2016-01-11T21:07:25.040Z,"59km NW of Illapel, Chile",earthquake,3.9,6.5,0.069,20,reviewed,us,us
+2015-10-13T20:13:17.270Z,-55.6369,-27.6107,43.71,4.6,mb,,78,5.292,0.7,us,us10003q8f,2016-01-11T21:07:25.040Z,"121km NNW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,11.9,6.8,0.172,11,reviewed,us,us
+2015-10-13T23:25:58.520Z,-30.9269,-72.1397,7.28,4,mb,,88,0.502,0.96,us,us10003ngy,2016-01-11T21:07:25.040Z,"97km WSW of Ovalle, Chile",earthquake,3.5,4.9,0.211,6,reviewed,us,us
+2015-10-14T03:48:00.660Z,-30.3953,-71.8561,18.41,4.2,mb,,149,0.336,0.64,us,us10003q90,2016-01-11T21:07:25.040Z,"66km WNW of Ovalle, Chile",earthquake,3.9,5.2,0.264,4,reviewed,us,us
+2015-10-14T04:34:39.800Z,18.0541,-65.4178,10,2.5,Md,9,147.6,0.28296931,0.62,pr,pr15287000,2016-01-11T21:07:25.040Z,"7km SE of Esperanza, Puerto Rico",earthquake,1.9,3.2,0,7,reviewed,pr,pr
+2015-10-14T06:08:37.000Z,18.7437,-68.6372,155,3.4,Md,12,338.4,1.47323707,0.67,pr,pr15287001,2016-01-11T21:07:26.040Z,"10km NNE of Otra Banda, Dominican Republic",earthquake,10.2,5,0,7,reviewed,pr,pr
+2015-10-14T06:48:24.500Z,18.2691,-66.405,27,2.4,Md,10,108,0.23805355,0.25,pr,pr15287002,2015-10-14T07:59:04.667Z,"6km S of Morovis, Puerto Rico",earthquake,0.7,1.8,0,7,reviewed,pr,pr
+2015-10-14T07:31:52.240Z,13.0235,-88.7959,51.84,4.1,md,,119,0.783,1.14,us,us10003nix,2016-01-11T21:07:26.040Z,"39km SW of Puerto El Triunfo, El Salvador",earthquake,7.3,9.8,,,reviewed,us,snet
+2015-10-14T07:47:18.980Z,7.6522,-73.3038,125.68,5,mww,,31,1.761,1.24,us,us10003niy,2016-02-19T01:57:34.000Z,"15km SE of San Alberto, Colombia",earthquake,6.5,4.9,,,reviewed,us,us
+2015-10-14T08:35:37.000Z,-31.264,-71.46,49.9,4.2,mb,,,,1.35,us,us10003nj3,2016-01-11T21:07:26.040Z,"49km NW of Illapel, Chile",earthquake,7.6,6.8,0.305,3,reviewed,guc,us
+2015-10-14T11:30:42.310Z,-33.358,-72.6858,10,4.4,mwr,,173,0.94,0.76,us,us10003nkg,2016-01-11T21:07:26.040Z,"102km WNW of San Antonio, Chile",earthquake,2.8,1.9,0.056,31,reviewed,us,us
+2015-10-14T12:56:09.000Z,-22.575,-68.71,108.8,4.3,mb,,,,0.76,us,us10003nkp,2016-01-11T21:07:26.040Z,"25km ESE of Calama, Chile",earthquake,3.9,5.2,0.238,5,reviewed,guc,us
+2015-10-14T15:24:30.400Z,19.2196,-67.7011,34,2.8,Md,6,338.4,0.93334958,0.18,pr,pr15287004,2016-01-11T21:07:26.040Z,"102km NE of Punta Cana, Dominican Republic",earthquake,2.3,12.9,0,6,reviewed,pr,pr
+2015-10-14T18:19:47.400Z,18.8269,-67.1744,30,2.6,Md,12,248.4,0.36112274,0.2,pr,pr15287003,2016-01-11T21:07:26.040Z,"37km NNW of San Antonio, Puerto Rico",earthquake,0.8,2.6,0,12,reviewed,pr,pr
+2015-10-15T00:48:17.720Z,19.2587,-105.3228,10,4.5,mb,,185,1.639,0.94,us,us10003nrr,2016-01-15T20:50:37.040Z,"65km W of San Patricio, Mexico",earthquake,6.4,1.9,0.048,127,reviewed,us,us
+2015-10-15T02:53:58.700Z,14.5373,-92.7457,52.23,4.2,mb,,150,0.593,0.87,us,us10003qpi,2016-01-15T20:50:37.040Z,"40km WSW of Puerto Madero, Mexico",earthquake,6.1,9.6,0.095,31,reviewed,us,us
+2015-10-15T04:49:49.300Z,18.9985,-65.4722,52,2.8,Md,9,230.4,0.70966907,0.37,pr,pr15288000,2016-01-15T20:50:37.040Z,"73km NNE of Luquillo, Puerto Rico",earthquake,3.6,7.8,0,6,reviewed,pr,pr
+2015-10-15T07:13:24.370Z,16.6626,-93.4416,193.89,4.4,mb,,84,0.327,1.34,us,us10003nt7,2016-01-15T20:50:38.040Z,"14km SW of Ocozocuautla, Mexico",earthquake,7.7,5.1,0.127,18,reviewed,us,us
+2015-10-15T10:07:28.140Z,-2.5015,-78.7623,97.13,5.4,mww,,26,2.738,1.03,us,us10003nud,2016-02-19T01:57:35.000Z,"19km ENE of Canar, Ecuador",earthquake,7.7,4.5,,,reviewed,us,us
+2015-10-15T11:03:11.710Z,-30.8217,-71.8166,34.33,4.7,mb,,48,0.214,1.12,us,us10003nuj,2016-01-15T20:50:39.040Z,"64km WSW of Ovalle, Chile",earthquake,4.6,4.3,0.07,62,reviewed,us,us
+2015-10-15T12:44:29.300Z,17.9106,-67.18,14,1.5,Md,3,309.6,0.11678099,0.05,pr,pr15288001,2015-10-15T15:25:38.632Z,"7km S of Pole Ojea, Puerto Rico",earthquake,1.1,1.1,0,2,reviewed,pr,pr
+2015-10-15T13:39:02.600Z,19.1413,-64.4042,43,2.9,Md,4,302.4,0.41502166,0.07,pr,pr15288002,2016-01-15T20:50:40.040Z,"83km NNE of Road Town, British Virgin Islands",earthquake,1.6,2.6,0,2,reviewed,pr,pr
+2015-10-15T13:51:45.400Z,18.1881,-67.2622,27,2.1,Md,8,172.8,0.16798496,0.07,pr,pr15288003,2015-10-15T15:48:31.349Z,"13km W of Mayaguez, Puerto Rico",earthquake,0.4,0.8,0,6,reviewed,pr,pr
+2015-10-15T17:57:32.300Z,18.5981,-65.6102,23,2.9,Md,13,176.4,0.3997503,0.23,pr,pr15288005,2016-01-15T20:50:41.040Z,"27km NNE of Luquillo, Puerto Rico",earthquake,1.2,7.1,0,12,reviewed,pr,pr
+2015-10-15T18:01:31.120Z,-22.7367,-68.9815,111.18,4.5,mb,,54,0.139,0.84,us,us10003nxs,2016-01-15T20:50:41.040Z,"30km S of Calama, Chile",earthquake,6.1,4.4,0.171,10,reviewed,us,us
+2015-10-15T18:12:23.840Z,10.306,-60.4299,10,4.3,mb,,139,0.991,0.84,us,us10003qpw,2016-01-15T20:50:41.040Z,"81km ESE of Sangre Grande, Trinidad and Tobago",earthquake,6.9,1.9,0.188,8,reviewed,us,us
+2015-10-15T19:23:22.680Z,-30.5632,-71.6201,35.82,4.9,mww,,102,0.111,1.04,us,us10003ny7,2016-02-19T01:57:36.000Z,"40km W of Ovalle, Chile",earthquake,6.3,4.2,,,reviewed,us,us
+2015-10-15T19:56:46.910Z,-34.8999,-108.125,10,4.8,mb,,108,30.087,0.79,us,us10003nyl,2016-02-19T01:57:37.000Z,"Southern East Pacific Rise",earthquake,15.2,1.9,0.079,50,reviewed,us,us
+2015-10-15T20:39:01.320Z,-30.5745,-71.6555,29.54,4.2,mwr,,142,0.1,0.75,us,us10003nyw,2016-01-15T20:50:42.040Z,"43km W of Ovalle, Chile",earthquake,4.9,2,0.047,44,reviewed,us,us
+2015-10-15T22:18:45.040Z,-30.6214,-71.8278,27.47,4,mwr,,129,0.174,1.12,us,us10003p0e,2016-01-15T20:50:42.040Z,"60km W of Ovalle, Chile",earthquake,3.2,6.9,0.051,37,reviewed,us,us
+2015-10-16T04:03:20.900Z,19.322,-64.8831,34,2.6,Md,4,295.2,0.78602587,0.23,pr,pr15289000,2016-01-15T20:50:44.040Z,"104km NNW of Road Town, British Virgin Islands",earthquake,3.2,16,0,2,reviewed,pr,pr
+2015-10-16T04:43:55.760Z,-19.9738,-68.7246,107.79,4.7,mww,,33,0.436,0.78,us,us10003p1x,2016-01-15T20:50:45.040Z,"150km E of Iquique, Chile",earthquake,5.4,4.6,,,reviewed,us,us
+2015-10-16T05:31:30.500Z,18.7175,-66.2352,56,2.5,Md,9,219.6,0.36741095,0.17,pr,pr15289001,2016-01-15T20:50:45.040Z,"28km N of Dorado, Puerto Rico",earthquake,0.9,2.2,0,6,reviewed,pr,pr
+2015-10-16T06:32:14.400Z,17.9598,-66.5258,15,2.1,Md,7,183.6,0.11228941,0.11,pr,pr15289002,2015-10-16T08:36:24.844Z,"4km SW of Potala Pastillo, Puerto Rico",earthquake,0.5,0.8,0,5,reviewed,pr,pr
+2015-10-16T06:50:35.840Z,-30.5689,-71.4396,25.39,4.1,ml,,130,0.198,0.73,us,us10003p26,2016-01-15T20:50:46.040Z,"23km W of Ovalle, Chile",earthquake,5.5,16.1,,,reviewed,us,guc
+2015-10-16T07:18:40.380Z,-19.9603,-66.7685,227.97,4.9,mww,,25,2.249,0.87,us,us10003p2p,2016-01-15T20:50:46.040Z,"41km NNE of Colchani, Bolivia",earthquake,7.6,5.6,,,reviewed,us,us
+2015-10-16T12:49:09.710Z,-31.4359,-71.937,30.08,4.2,mwr,,148,0.802,1.05,us,us10003p4f,2016-01-15T20:50:47.040Z,"76km WNW of Illapel, Chile",earthquake,5.5,3.6,0.051,37,reviewed,us,us
+2015-10-16T16:58:27.880Z,-30.5265,-71.7478,35,4.1,mwr,,133,0.176,1.29,us,us10003p6i,2016-01-15T20:50:48.040Z,"53km W of Ovalle, Chile",earthquake,2.3,2,0.056,31,reviewed,us,us
+2015-10-16T18:45:44.500Z,8.39,-103.2821,10,4.7,mb,,196,10.208,0.94,us,us10003p7c,2016-01-15T20:50:49.040Z,"Northern East Pacific Rise",earthquake,12.5,2,0.039,202,reviewed,us,us
+2015-10-16T18:48:17.430Z,8.6608,-103.2096,10,4.5,mb,,196,9.935,0.92,us,us10003p7d,2016-02-19T01:57:40.000Z,"Northern East Pacific Rise",earthquake,9.1,1.9,0.054,100,reviewed,us,us
+2015-10-17T00:57:01.340Z,10.7556,-62.8778,10,4.7,mb,,38,1.783,0.72,us,us10003pad,2016-01-15T20:50:52.040Z,"21km NNW of Yaguaraparo, Venezuela",earthquake,4.4,1.5,0.039,204,reviewed,us,us
+2015-10-17T01:11:42.200Z,19.1662,-64.7778,60,3.3,Md,14,244.8,0.60456619,0.34,pr,pr15290000,2016-01-15T20:50:52.040Z,"84km NNW of Road Town, British Virgin Islands",earthquake,3.4,6.1,0,9,reviewed,pr,pr
+2015-10-17T01:37:46.900Z,19.273,-64.8555,49,2.4,Md,5,270,0.73212696,0.1,pr,pr15290001,2015-10-17T05:21:11.071Z,"98km NNW of Road Town, British Virgin Islands",earthquake,2.2,5.5,0,3,reviewed,pr,pr
+2015-10-17T01:40:23.900Z,19.2579,-68.383,135,3.3,Md,3,345.6,1.63313719,0.38,pr,pr15290002,2016-01-15T20:50:52.040Z,"73km NNE of Otra Banda, Dominican Republic",earthquake,18.1,18.4,0,3,reviewed,pr,pr
+2015-10-17T05:00:24.100Z,18.0205,-67.1156,16,1.8,Md,3,212.4,0.01527136,0.1,pr,pr15290004,2015-10-17T07:40:01.692Z,"4km WSW of Palmarejo, Puerto Rico",earthquake,1.6,1.1,0,2,reviewed,pr,pr
+2015-10-17T05:53:45.000Z,6.828,-73.141,150,4.1,mb,,,,1.14,us,us10003paz,2016-01-15T20:50:53.040Z,"14km E of Zapatoca, Colombia",earthquake,5.1,6.3,0.185,8,reviewed,rsnc,us
+2015-10-17T06:15:13.000Z,17.996,-68.2465,96,3.4,Md,14,327.6,0.82555175,0.31,pr,pr15290003,2016-01-15T20:50:53.040Z,"57km SE of Boca de Yuma, Dominican Republic",earthquake,3.3,1.7,0,10,reviewed,pr,pr
+2015-10-17T07:01:27.360Z,-20.582,-70.7838,14.7,4.5,mwr,,143,0.565,0.88,us,us10003pb9,2016-01-15T20:50:54.040Z,"77km WSW of Iquique, Chile",earthquake,2.5,4.5,0.057,30,reviewed,us,us
+2015-10-17T08:38:55.620Z,-31.6684,-72.1311,16.29,4.2,mwr,,144,1.078,0.66,us,us10003pbi,2016-01-15T20:50:54.040Z,"91km W of Illapel, Chile",earthquake,7.1,4.5,0.048,42,reviewed,us,us
+2015-10-17T09:13:51.800Z,18.4305,-67.467,18,2.4,Md,5,244.8,0.04761071,0.15,pr,pr15290005,2015-10-17T11:38:48.129Z,"25km WNW of Rincon, Puerto Rico",earthquake,1,0.7,0,4,reviewed,pr,pr
+2015-10-17T09:18:15.300Z,17.7845,-67.9627,58,2.8,Md,4,320.4,0.75278821,0.07,pr,pr15290006,2016-01-15T20:50:55.040Z,"85km WSW of Pole Ojea, Puerto Rico",earthquake,1.6,3.3,0,2,reviewed,pr,pr
+2015-10-17T11:33:08.950Z,-25.4674,-64.4839,17,5.8,mww,,37,4.201,0.79,us,us10003pc9,2016-03-02T18:47:33.656Z,"19km ESE of El Galpon, Argentina",earthquake,6.8,1.7,,,reviewed,us,us
+2015-10-17T11:39:05.210Z,-55.7445,-27.546,3.44,5,mb,,69,19.951,0.65,us,us10003qxq,2016-01-15T20:50:56.040Z,"108km NNW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,18.2,4.2,0.213,7,reviewed,us,us
+2015-10-17T14:17:37.030Z,13.3627,-89.9712,43.22,4.4,mb,,165,0.788,1.04,us,us10003qx6,2016-01-15T20:50:56.040Z,"29km SSW of Acajutla, El Salvador",earthquake,6.4,11.6,0.378,2,reviewed,us,us
+2015-10-17T14:20:34.900Z,18.1525,-64.655,128,3,Md,9,226.8,0.26500301,0.23,pr,pr15290007,2016-01-15T20:50:57.040Z,"29km S of Road Town, British Virgin Islands",earthquake,6.6,1.2,0,7,reviewed,pr,pr
+2015-10-17T15:11:44.710Z,-31.3989,-72.1127,10,4.4,mb,,196,0.831,0.61,us,us10003pd2,2016-01-15T20:50:57.040Z,"93km WNW of Illapel, Chile",earthquake,5.5,1.8,0.309,3,reviewed,us,us
+2015-10-17T15:43:08.300Z,18.642,-68.0609,110,2.8,Mb,5,338.4,0.60726113,0.28,pr,pr15290008,2016-01-15T20:50:57.040Z,"36km E of Punta Cana, Dominican Republic",earthquake,7.8,2.4,0,4,reviewed,pr,pr
+2015-10-17T16:42:34.900Z,18.0844,-67.1409,22,1.9,Md,7,154.8,0.08354332,0.25,pr,pr15290009,2015-10-17T19:48:20.050Z,"0km ESE of Cabo Rojo, Puerto Rico",earthquake,0.8,1.1,0,7,reviewed,pr,pr
+2015-10-17T17:52:19.940Z,-42.6607,-82.4526,10.13,5.6,mww,,76,7.707,0.76,us,us10003pdi,2016-03-02T18:46:35.823Z,"West Chile Rise",earthquake,9.9,3.6,,,reviewed,us,us
+2015-10-17T17:52:57.830Z,-9.4402,-79.2779,50.76,4.2,mb,,145,6.718,1.12,us,us10003qxa,2016-01-15T20:50:58.040Z,"85km SW of Puerto Santa, Peru",earthquake,7.3,9.1,0.167,10,reviewed,us,us
+2015-10-17T20:32:06.790Z,-31.7436,-71.9705,15.63,4,mwr,,139,1.104,0.8,us,us10003pee,2016-01-15T20:50:58.040Z,"77km W of Illapel, Chile",earthquake,2.2,3.7,0.066,22,reviewed,us,us
+2015-10-17T20:34:49.600Z,17.9573,-65.9513,12,2.3,Md,3,212.4,0.14822202,0.05,pr,pr15290010,2015-10-18T00:03:52.761Z,"4km SE of Lamboglia, Puerto Rico",earthquake,0.8,0.4,0,3,reviewed,pr,pr
+2015-10-17T22:19:47.100Z,18.9197,-64.3807,33,2.5,Md,5,288,0.19493442,0.25,pr,pr15290011,2016-01-15T20:50:59.040Z,"60km NNE of Road Town, British Virgin Islands",earthquake,3,2.8,0,4,reviewed,pr,pr
+2015-10-18T00:27:37.200Z,19.4617,-65.3247,85,3.4,Md,8,255.6,1.14894525,0.28,pr,pr15291000,2016-01-15T20:51:00.040Z,"126km NNE of Vieques, Puerto Rico",earthquake,6,10.4,0,8,reviewed,pr,pr
+2015-10-18T00:31:51.800Z,19.3913,-65.3485,94,3.3,Md,5,248.4,1.07887666,0.1,pr,pr15291001,2016-01-15T20:51:01.040Z,"118km NNE of Vieques, Puerto Rico",earthquake,2.9,4.4,0,5,reviewed,pr,pr
+2015-10-18T01:26:37.300Z,18.0289,-68.4065,95,3.2,Md,6,334.8,0.94862094,0.2,pr,pr15291002,2016-01-15T20:51:01.040Z,"44km SSE of Boca de Yuma, Dominican Republic",earthquake,4,1.8,0,4,reviewed,pr,pr
+2015-10-18T01:35:58.200Z,19.2651,-64.8367,55,2.5,Md,4,291.6,0.71416065,0.25,pr,pr15291003,2016-01-15T20:51:02.040Z,"96km NNW of Road Town, British Virgin Islands",earthquake,5.1,10,0,3,reviewed,pr,pr
+2015-10-18T02:38:27.590Z,-27.0674,-112.2751,10,4.4,mb,,167,2.533,0.62,us,us10003qyq,2016-01-15T20:51:02.040Z,"281km W of Hanga Roa, Chile",earthquake,13.6,2,0.22,6,reviewed,us,us
+2015-10-18T02:57:12.300Z,18.9775,-68.262,99,3.1,Md,9,334.8,1.37082912,0.43,pr,pr15291004,2016-01-15T20:51:02.040Z,"46km NNE of Punta Cana, Dominican Republic",earthquake,7.1,11.9,0,7,reviewed,pr,pr
+2015-10-18T03:04:47.300Z,17.9885,-67.0524,13,1.6,Md,3,165.6,0.01976294,0.03,pr,pr15291005,2015-10-18T08:10:14.337Z,"1km NNW of La Parguera, Puerto Rico",earthquake,0.8,0.6,0,2,reviewed,pr,pr
+2015-10-18T03:17:00.000Z,18.1245,-66.044,17,1.9,Md,12,90,0.10779783,0.3,pr,pr15291006,2015-10-18T08:10:55.518Z,"6km E of G. L. Garcia, Puerto Rico",earthquake,0.7,0.7,0,7,reviewed,pr,pr
+2015-10-18T04:44:50.640Z,-35.5083,-103.9181,10,4.7,mb,,149,9.563,0.88,us,us10003qxv,2016-02-19T01:57:50.000Z,"Southeast of Easter Island",earthquake,9.2,1.8,0.083,44,reviewed,us,us
+2015-10-18T05:51:45.500Z,19.0181,-63.7709,22,2.9,Md,4,342,0.60276956,0.25,pr,pr15291007,2016-01-15T20:51:03.040Z,"111km NE of Road Town, British Virgin Islands",earthquake,5.9,20.4,0,2,reviewed,pr,pr
+2015-10-18T06:39:02.900Z,18.4395,-67.3957,19,1.9,Md,3,205.2,0.09701805,0.05,pr,pr15291008,2015-10-18T08:12:15.869Z,"18km NW of Rincon, Puerto Rico",earthquake,1.3,0.8,0,3,reviewed,pr,pr
+2015-10-18T09:22:34.400Z,17.8411,-66.1794,12,2.6,Md,9,259.2,0.14193381,0.2,pr,pr15291009,2016-01-15T20:51:04.040Z,"12km S of Jobos, Puerto Rico",earthquake,1.2,0.6,0,6,reviewed,pr,pr
+2015-10-18T10:49:08.700Z,18.0746,-66.2701,12,2.7,Md,13,108,0.18954452,0.11,pr,pr15291010,2016-01-15T20:51:04.040Z,"3km WNW of Vazquez, Puerto Rico",earthquake,0.2,0.4,0,12,reviewed,pr,pr
+2015-10-18T11:47:22.900Z,19.0347,-64.7005,11,3.1,Md,11,237.6,0.46173406,0.23,pr,pr15291011,2016-01-15T20:51:05.040Z,"68km N of Road Town, British Virgin Islands",earthquake,1.9,3.6,0,7,reviewed,pr,pr
+2015-10-18T12:48:43.000Z,-35.969,-72.668,50,4.8,mww,,,,0.65,us,us10003phn,2016-01-15T20:51:05.040Z,"31km W of Cauquenes, Chile",earthquake,7.4,5.1,,,reviewed,guc,us
+2015-10-18T12:50:08.100Z,18.086,-64.164,19,3.1,Md,9,252,0.46173406,1.04,pr,pr15291012,2016-01-15T20:51:05.040Z,"60km SE of Road Town, British Virgin Islands",earthquake,7.8,18.3,0,6,reviewed,pr,pr
+2015-10-18T13:04:48.700Z,17.9874,-67.1153,15,2,Md,10,212.4,0.01976294,0.1,pr,pr15291013,2015-10-18T15:52:46.335Z,"7km SE of Boqueron, Puerto Rico",earthquake,0.5,0.3,0,5,reviewed,pr,pr
+2015-10-18T13:28:01.800Z,18.6,-68.0084,22,2.5,Md,6,331.2,0.54527738,0.25,pr,pr15291014,2016-01-15T20:51:06.040Z,"41km E of Punta Cana, Dominican Republic",earthquake,2.6,19.1,0,4,reviewed,pr,pr
+2015-10-18T16:53:18.800Z,-36.1137,-73.7941,18.53,4.1,mb,,120,1.876,1.04,us,us10003qyg,2016-01-15T20:51:08.040Z,"90km NW of Talcahuano, Chile",earthquake,5.8,7.3,0.197,7,reviewed,us,us
+2015-10-18T17:00:08.200Z,18.531,-67.4275,18,2,Md,4,259.2,0.15361191,0.07,pr,pr15291015,2015-10-18T19:47:47.896Z,"28km NW of Rincon, Puerto Rico",earthquake,1.1,0.4,0,4,reviewed,pr,pr
+2015-10-18T21:23:52.170Z,-30.1732,-72.6303,10,4.4,mb,,155,0.994,0.77,us,us10003qyn,2016-01-15T20:51:09.040Z,"126km WSW of Coquimbo, Chile",earthquake,5,1.9,0.18,9,reviewed,us,us
+2015-10-18T23:01:15.150Z,-31.3226,-72.2657,8.09,4,mwr,,129,0.843,0.97,us,us10003pjz,2016-01-15T20:51:09.040Z,"110km WNW of Illapel, Chile",earthquake,3,6.7,0.059,28,reviewed,us,us
+2015-10-19T00:13:24.800Z,19.5013,-66.2677,13,2.9,Md,12,280.8,1.04743562,0.18,pr,pr15292000,2016-01-15T20:51:10.040Z,"114km N of Brenas, Puerto Rico",earthquake,3.7,5.6,0,8,reviewed,pr,pr
+2015-10-19T01:12:14.510Z,-55.9562,-27.5243,113.03,4.4,mb,,102,5.41,0.46,us,us10003qzf,2016-01-15T20:51:10.040Z,"85km NNW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,11.8,6.3,0.13,17,reviewed,us,us
+2015-10-19T01:22:22.000Z,18.8269,-64.5473,96,2.1,Md,3,237.6,0.22547714,0.17,pr,pr15292001,2015-10-19T04:29:16.515Z,"45km N of Road Town, British Virgin Islands",earthquake,4.3,1.5,0,3,reviewed,pr,pr
+2015-10-19T02:41:00.560Z,-34.8029,-71.6718,46.24,4.6,mb,,53,0.296,0.56,us,us10003pkk,2016-01-15T20:51:10.040Z,"33km SW of Santa Cruz, Chile",earthquake,3.2,1,0.102,29,reviewed,us,us
+2015-10-19T03:06:34.010Z,-38.1623,-75.1155,10,4.2,mb,,145,2.612,0.78,us,us10003pkr,2016-01-15T20:51:11.040Z,"142km WSW of Lebu, Chile",earthquake,4.9,1.9,0.199,7,reviewed,us,us
+2015-10-19T04:37:12.720Z,-30.2852,-72.2484,6.02,4.5,mwr,,88,0.656,1.07,us,us10003pl1,2016-01-15T20:51:11.040Z,"94km WSW of Coquimbo, Chile",earthquake,3.4,4.1,0.047,44,reviewed,us,us
+2015-10-19T05:22:04.730Z,-55.3206,-27.9528,10,4.2,mb,,85,5.046,0.32,us,us10003r0i,2016-01-15T20:51:12.040Z,"160km NNW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,14,1.9,0.216,6,reviewed,us,us
+2015-10-19T05:43:51.160Z,-21.1965,-68.6881,124.61,4.3,mb,,91,0.761,0.69,us,us10003plc,2016-01-15T20:51:12.040Z,"142km N of Calama, Chile",earthquake,6.4,5.1,0.147,13,reviewed,us,us
+2015-10-19T05:57:23.500Z,18.7355,-67.6396,32,3.2,Md,13,306,0.38088568,0.47,pr,pr15292002,2016-01-15T20:51:12.040Z,"60km NW of Rincon, Puerto Rico",earthquake,2.6,6.4,0,11,reviewed,pr,pr
+2015-10-19T08:42:56.040Z,4.8505,-82.7527,10,4.1,mb,,237,3.7,1.02,us,us10003pls,2016-01-15T20:51:13.040Z,"South of Panama",earthquake,11.6,2,0.197,7,reviewed,us,us
+2015-10-19T08:51:03.000Z,17.8365,-67.6075,5,2.6,Md,8,291.6,0.50305656,0.44,pr,pr15292003,2016-01-15T20:51:13.040Z,"47km WSW of Pole Ojea, Puerto Rico",earthquake,3.1,3.1,0,3,reviewed,pr,pr
+2015-10-19T09:28:41.770Z,-30.2687,-71.9793,16.26,4.5,mb,,150,0.501,0.97,us,us10003plt,2016-01-15T20:51:13.040Z,"70km WSW of Coquimbo, Chile",earthquake,2.8,4.8,0.271,7,reviewed,us,us
+2015-10-19T14:37:51.900Z,-33.4872,-70.8707,79.7,4.7,mb,,51,0.146,0.71,us,us10003pni,2016-01-15T20:51:15.040Z,"14km WSW of Lo Prado, Chile",earthquake,4,3.6,0.077,52,reviewed,us,us
+2015-10-19T17:27:21.490Z,-31.3436,-72.2126,10,4.1,mb,,152,0.831,0.73,us,us10003pr1,2016-01-15T20:51:16.040Z,"104km WNW of Illapel, Chile",earthquake,6,1.9,0.198,7,reviewed,us,us
+2015-10-19T17:57:02.710Z,-30.7077,-71.44,39.72,4.4,mb,,96,0.171,0.68,us,us10003pr8,2016-01-15T20:51:16.040Z,"25km WSW of Ovalle, Chile",earthquake,7.4,7,0.169,10,reviewed,us,us
+2015-10-19T19:35:59.400Z,17.4447,-64.9244,15,3.1,Md,8,284.4,0.34046149,0.23,pr,pr15292006,2016-01-15T20:51:16.040Z,"41km SW of Christiansted, U.S. Virgin Islands",earthquake,1.3,1.7,0,6,reviewed,pr,pr
+2015-10-19T19:47:57.000Z,18.9414,-64.931,44,3,Md,4,252,0.60456619,0.05,pr,pr15292007,2016-01-15T20:51:16.040Z,"66km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.7,3.2,0,3,reviewed,pr,pr
+2015-10-19T20:27:21.290Z,-35.7708,-101.7953,10,4.6,mb,,188,24.956,0.49,us,us10003r06,2016-01-15T20:51:17.040Z,"Southeast of Easter Island",earthquake,8.5,2,0.158,12,reviewed,us,us
+2015-10-19T20:30:56.640Z,-36.2441,-99.908,10,4.4,mb,,117,23.358,0.75,us,us10003r07,2016-01-15T20:51:17.040Z,"Southeast of Easter Island",earthquake,10.3,1.9,0.202,7,reviewed,us,us
+2015-10-19T20:45:28.100Z,19.5545,-65.5288,55,3.4,Md,5,288,1.26033634,0.05,pr,pr15292008,2016-01-15T20:51:17.040Z,"129km NNE of Vieques, Puerto Rico",earthquake,1.7,6.1,0,4,reviewed,pr,pr
+2015-10-19T20:57:37.400Z,18.9759,-67.8391,30,3.3,Md,8,320.4,0.67912635,0.17,pr,pr15292004,2016-01-15T20:51:17.040Z,"73km NE of Punta Cana, Dominican Republic",earthquake,1.4,7.4,0,7,reviewed,pr,pr
+2015-10-19T21:45:06.400Z,18.9633,-67.7502,23,3,Md,6,324,0.62971901,0.11,pr,pr15292009,2016-01-15T20:51:17.040Z,"80km ENE of Punta Cana, Dominican Republic",earthquake,1.2,10.1,0,6,reviewed,pr,pr
+2015-10-19T22:27:39.300Z,19.0655,-67.7906,27,2.8,Md,5,327.6,0.73931348,0.17,pr,pr15292010,2016-01-15T20:51:18.040Z,"83km NE of Punta Cana, Dominican Republic",earthquake,2.2,11.6,0,4,reviewed,pr,pr
+2015-10-19T22:31:52.100Z,19.4258,-66.355,87,3.4,Md,8,288,0.95670578,0.15,pr,pr15292005,2016-01-15T20:51:18.040Z,"106km N of Brenas, Puerto Rico",earthquake,2,3.4,0,5,reviewed,pr,pr
+2015-10-19T22:34:49.380Z,-31.1618,-71.7506,29.9,4.2,mb,,162,0.496,0.51,us,us10003pu0,2016-01-15T20:51:18.040Z,"76km NW of Illapel, Chile",earthquake,6.2,6.8,0.199,7,reviewed,us,us
+2015-10-19T23:33:27.800Z,18.0919,-65.0392,7,2.4,Md,4,212.4,0.31441035,0.43,pr,pr15292011,2015-10-20T05:01:02.794Z,"29km SSW of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.2,3.1,0,3,reviewed,pr,pr
+2015-10-20T00:19:27.280Z,-55.2355,-27.9475,10,4.4,mb,,112,5.037,0.75,us,us10003rvj,2016-01-15T20:51:19.040Z,"169km NNW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,11.5,1.7,0.143,14,reviewed,us,us
+2015-10-20T01:32:56.500Z,18.5105,-67.5552,17,2.4,Md,4,302.4,0.14462876,0.14,pr,pr15293002,2015-10-20T05:19:14.932Z,"37km WNW of Rincon, Puerto Rico",earthquake,1.3,0.6,0,4,reviewed,pr,pr
+2015-10-20T01:58:21.660Z,-55.7504,-27.8638,44.04,4.3,mb,,123,5.175,0.62,us,us10003rwh,2016-01-15T20:51:20.040Z,"113km NNW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,14.8,8.5,0.142,14,reviewed,us,us
+2015-10-20T02:24:35.100Z,18.947,-64.398,39,2.4,Md,3,288,0.22457882,0.18,pr,pr15293001,2015-10-20T05:15:54.486Z,"63km NNE of Road Town, British Virgin Islands",earthquake,2,2.4,0,3,reviewed,pr,pr
+2015-10-20T02:30:05.600Z,18.8969,-64.2918,36,3,Md,8,324,0.1706799,0.07,pr,pr15293003,2016-01-15T20:51:20.040Z,"63km NNE of Road Town, British Virgin Islands",earthquake,1.4,0.7,0,8,reviewed,pr,pr
+2015-10-20T02:45:01.100Z,18.8943,-64.2655,36,2.8,Md,6,324,0.17517148,0.15,pr,pr15293004,2016-01-15T20:51:21.040Z,"64km NE of Road Town, British Virgin Islands",earthquake,1.9,0.8,0,5,reviewed,pr,pr
+2015-10-20T02:52:47.600Z,17.9951,-65.587,18,2.7,Md,5,205.2,0.1060012,0.1,pr,pr15293005,2016-01-15T20:51:21.040Z,"16km SW of Esperanza, Puerto Rico",earthquake,0.9,0.4,0,4,reviewed,pr,pr
+2015-10-20T03:04:05.400Z,18.61,-66.96,23,2.3,Md,7,219.6,0.20032431,0.23,pr,pr15293006,2015-10-20T06:58:16.050Z,"13km NNE of Isabela, Puerto Rico",earthquake,1.1,2,0,4,reviewed,pr,pr
+2015-10-20T03:31:14.600Z,18.8563,-67.459,17,3,Md,18,280.8,0.46892058,0.3,pr,pr15293000,2016-01-15T20:51:21.040Z,"55km NW of San Antonio, Puerto Rico",earthquake,2.2,3.3,0,13,reviewed,pr,pr
+2015-10-20T04:01:28.000Z,-29.973,-71.1056,92.26,3.9,mb,,82,0.127,0.5,us,us10003pu8,2016-01-15T20:51:21.040Z,"16km ESE of La Serena, Chile",earthquake,5.3,3.8,0.229,5,reviewed,us,us
+2015-10-20T04:06:54.010Z,-30.7726,-71.4885,40.42,4.7,mwr,,56,0.16,0.93,us,us10003pu9,2016-01-15T20:51:22.040Z,"33km SW of Ovalle, Chile",earthquake,5.1,4.6,0.05,39,reviewed,us,us
+2015-10-20T04:15:20.810Z,-30.7412,-71.4384,40.53,4.1,mb,,106,0.182,0.45,us,us10003pue,2016-01-15T20:51:22.040Z,"27km SW of Ovalle, Chile",earthquake,5.9,11.2,0.369,2,reviewed,us,us
+2015-10-20T10:06:14.040Z,-30.7867,-71.4045,46.02,5,mww,,47,0.228,1.03,us,us10003pvh,2016-02-19T01:58:01.000Z,"28km SW of Ovalle, Chile",earthquake,4.9,4,,,reviewed,us,us
+2015-10-20T10:07:56.100Z,18.9988,-65.3933,44,3.1,Md,9,241.2,0.69529603,0.27,pr,pr15293007,2016-01-15T20:51:23.040Z,"77km NNE of Luquillo, Puerto Rico",earthquake,2.3,7,0,9,reviewed,pr,pr
+2015-10-20T13:57:50.080Z,18.2404,-61.0634,38.09,4.6,mb,,111,0.892,1.06,us,us10003pvy,2016-01-15T20:51:24.040Z,"104km NE of Codrington, Barbuda",earthquake,6.9,6.9,0.128,20,reviewed,us,us
+2015-10-20T16:43:31.070Z,-29.9607,-72.2611,10,4.3,ml,,196,0.888,1.09,us,us10003rvz,2016-01-15T20:51:25.040Z,"88km W of Coquimbo, Chile",earthquake,4.1,2,,,reviewed,us,guc
+2015-10-20T19:03:09.640Z,-20.5458,-70.6956,16.77,3.9,mwr,,177,0.482,0.68,us,us10003q0f,2016-01-15T20:51:25.040Z,"67km WSW of Iquique, Chile",earthquake,4.3,5.5,0.061,26,reviewed,us,us
+2015-10-20T19:41:01.400Z,18.3761,-64.9207,88,2.8,Md,3,331.2,0.03952587,0.05,pr,pr15293008,2016-01-15T20:51:26.040Z,"3km NNE of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.6,0.9,0,2,reviewed,pr,pr
+2015-10-20T20:13:22.400Z,18.0911,-65.5818,16,1.8,Md,3,201.6,0.02874609,0.07,pr,pr15293009,2015-10-21T01:31:09.439Z,"11km W of Esperanza, Puerto Rico",earthquake,1.8,0.8,0,2,reviewed,pr,pr
+2015-10-20T20:33:12.060Z,-57.4332,-65.8872,9.08,5.6,mww,,49,2.689,0.89,us,us10003pzw,2016-03-02T18:44:22.824Z,"Drake Passage",earthquake,7.5,3.2,,,reviewed,us,us
+2015-10-20T21:45:23.990Z,-30.4214,-71.7119,25.51,3.9,mb,,147,0.26,0.88,us,us10003q0k,2016-01-15T20:51:26.040Z,"52km WNW of Ovalle, Chile",earthquake,4.3,7.2,0.256,4,reviewed,us,us
+2015-10-20T23:55:48.340Z,-30.8176,-71.5045,37.09,4.5,mb,,112,0.182,1.12,us,us10003q3t,2016-01-15T20:51:29.040Z,"37km SW of Ovalle, Chile",earthquake,4.1,5.6,0.131,17,reviewed,us,us
+2015-10-21T02:12:22.750Z,-31.7063,-72.0508,10,4.2,mwr,,76,1.089,0.65,us,us10003q4e,2016-01-15T20:51:30.040Z,"84km W of Illapel, Chile",earthquake,2.7,1.8,0.046,45,reviewed,us,us
+2015-10-21T03:10:28.030Z,-30.6918,-71.571,35.9,4,mb,,82,0.058,0.68,us,us10003q4l,2016-01-15T20:51:30.040Z,"37km WSW of Ovalle, Chile",earthquake,4.7,11.8,0.366,2,reviewed,us,us
+2015-10-21T05:22:07.150Z,-30.3618,-71.7019,17.32,4.1,ml,,192,0.316,1.14,us,us10003q61,2016-01-15T20:51:31.040Z,"54km WNW of Ovalle, Chile",earthquake,4.7,12.7,,,reviewed,us,guc
+2015-10-21T09:22:07.000Z,-22.395,-67.781,156.4,4.7,mb,,,,1.5,us,us10003q60,2016-01-15T20:51:32.040Z,"73km NE of San Pedro de Atacama, Chile",earthquake,7.9,5.6,0.102,32,reviewed,guc,us
+2015-10-21T11:11:36.200Z,18.1152,-66.849,9,2,Md,6,133.2,0.2353586,0.09,pr,pr15294001,2015-10-21T18:03:19.019Z,"6km SW of Adjuntas, Puerto Rico",earthquake,0.3,5.5,0,4,reviewed,pr,pr
+2015-10-21T12:25:09.800Z,18.9358,-65.3444,58,3.3,Md,6,284.4,0.62792238,0.38,pr,pr15294000,2015-10-21T20:27:40.627Z,"70km N of Culebra, Puerto Rico",earthquake,5.3,9,0,6,reviewed,pr,pr
+2015-10-21T12:25:10.600Z,18.9902,-65.3874,29,3.1,Md,12,241.2,0.68631288,0.38,pr,pr15294003,2016-01-15T20:51:34.040Z,"76km NNE of Luquillo, Puerto Rico",earthquake,2.9,17.6,0,12,reviewed,pr,pr
+2015-10-21T12:31:17.800Z,18.9888,-65.4377,10,2.5,Md,3,291.6,0.69260108,0.07,pr,pr15294002,2016-01-15T20:51:34.040Z,"74km NNE of Luquillo, Puerto Rico",earthquake,3.2,4.3,0,2,reviewed,pr,pr
+2015-10-21T12:39:41.400Z,18.4589,-64.3655,26,3.2,Md,9,356.4,0.24254513,0.17,pr,pr15294004,2016-01-15T20:51:34.040Z,"26km E of Road Town, British Virgin Islands",earthquake,15.9,1.6,0,6,reviewed,pr,pr
+2015-10-21T14:39:17.810Z,-20.3199,-69.1422,87.22,4.5,mwr,,44,0.178,0.67,us,us10003q8j,2016-01-15T20:51:35.040Z,"105km E of Iquique, Chile",earthquake,6.5,5.3,0.065,23,reviewed,us,us
+2015-10-21T18:11:04.240Z,-18.9925,-68.3633,187.28,4.5,mb,,41,1.364,0.71,us,us10003qb5,2016-01-15T20:51:36.040Z,"153km SE of Putre, Chile",earthquake,8.1,7,0.122,20,reviewed,us,us
+2015-10-21T18:20:33.120Z,2.1717,-99.2102,10,4.2,mb,,234,9.359,0.59,us,us10003rxv,2016-01-15T20:51:36.040Z,"West of the Galapagos Islands",earthquake,14.3,2,0.159,11,reviewed,us,us
+2015-10-21T18:45:46.530Z,-30.8311,-71.4796,36.82,4.9,mb,,76,0.206,0.86,us,us10003qbf,2016-01-15T20:51:36.040Z,"37km SW of Ovalle, Chile",earthquake,5,4.5,0.044,166,reviewed,us,us
+2015-10-21T21:19:24.730Z,-26.9223,-113.6212,10,4.8,mb,,76,36.694,0.61,us,us10003qfl,2016-01-15T20:51:37.040Z,"Easter Island region",earthquake,13.3,1.8,0.071,61,reviewed,us,us
+2015-10-21T22:04:31.430Z,-31.182,-71.8011,22.03,4.2,mb,,191,0.526,1.03,us,us10003qgw,2016-01-15T20:51:37.040Z,"78km NW of Illapel, Chile",earthquake,3,7.6,0.304,3,reviewed,us,us
+2015-10-22T00:02:55.210Z,-30.3046,-71.6998,22.12,4.2,mb,,90,0.372,1.05,us,us10003qiw,2016-01-22T23:41:09.040Z,"51km SW of Coquimbo, Chile",earthquake,4.9,6.4,0.2,7,reviewed,us,us
+2015-10-22T00:14:06.400Z,17.4689,-65.7533,22,2.4,Md,12,219.6,0.59737966,0.18,pr,pr15295000,2015-10-22T00:37:08.883Z,"60km SSE of Emajagua, Puerto Rico",earthquake,0.8,13.7,0,11,reviewed,pr,pr
+2015-10-22T02:56:34.900Z,19.5277,-66.1275,38,3.4,Md,10,291.6,1.21272563,0.23,pr,pr15295002,2016-01-22T23:41:09.040Z,"117km N of San Juan, Puerto Rico",earthquake,2.3,14.7,0,8,reviewed,pr,pr
+2015-10-22T03:32:44.400Z,19.1124,-68.0962,24,3,Md,5,331.2,1.33489651,0.33,pr,pr15295003,2016-01-22T23:41:09.040Z,"67km NNE of Punta Cana, Dominican Republic",earthquake,3.2,28.8,0,3,reviewed,pr,pr
+2015-10-22T04:18:00.800Z,17.9592,-66.6997,34,2.8,Md,14,180,0.12127256,0.25,pr,pr15295001,2016-01-22T23:41:09.040Z,"4km SSE of Tallaboa, Puerto Rico",earthquake,0.9,1.3,0,11,reviewed,pr,pr
+2015-10-22T05:39:40.700Z,18.1345,-66.9408,20,1.9,Md,4,169.2,0.14373045,0.07,pr,pr15295004,2015-10-22T08:57:46.922Z,"6km NNE of Sabana Grande, Puerto Rico",earthquake,1,2.2,0,1,reviewed,pr,pr
+2015-10-22T08:47:22.600Z,18.127,-66.7435,18,2.1,Md,9,118.8,0.12845909,0.05,pr,pr15295005,2015-10-22T09:03:27.654Z,"7km ESE of Adjuntas, Puerto Rico",earthquake,0.2,0.5,0,6,reviewed,pr,pr
+2015-10-22T16:24:11.700Z,18.673,-64.2799,44,2.2,Md,4,342,0.40873345,0.15,pr,pr15295006,2015-10-22T19:53:32.505Z,"45km NE of Road Town, British Virgin Islands",earthquake,7.2,3.1,0,4,reviewed,pr,pr
+2015-10-22T17:13:17.150Z,18.8598,-62.5966,35.62,4.3,mb,,69,0.924,0.97,us,us10003qs4,2016-01-22T23:41:10.040Z,"84km NNE of Stoney Ground, Anguilla",earthquake,6.8,2.2,0.089,36,reviewed,us,us
+2015-10-22T18:24:04.500Z,18.1935,-64.8768,26,1.8,Md,4,212.4,0.17247653,0.1,pr,pr15295007,2015-10-22T19:59:49.312Z,"17km SSE of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.8,2.9,0,4,reviewed,pr,pr
+2015-10-22T19:01:23.800Z,18.9811,-65.0652,34,2.2,Md,4,291.6,0.63421059,0.11,pr,pr15295008,2015-10-22T20:11:20.784Z,"72km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.7,8.6,0,4,reviewed,pr,pr
+2015-10-22T20:13:21.200Z,18.1245,-66.752,12,2.2,Md,5,133.2,0.17157822,0.07,pr,pr15295009,2015-10-22T23:53:15.407Z,"6km SE of Adjuntas, Puerto Rico",earthquake,0.2,0.7,0,4,reviewed,pr,pr
+2015-10-22T20:22:28.000Z,-30.385,-71.699,25.3,4.2,mb,,,,0.77,us,us10003qtm,2016-01-22T23:41:10.040Z,"53km WNW of Ovalle, Chile",earthquake,4.1,5.6,0.187,8,reviewed,guc,us
+2015-10-22T22:32:30.200Z,18.8073,-67.236,31,2.6,Md,8,298.8,0.3584278,0.23,pr,pr15295012,2016-01-22T23:41:10.040Z,"37km NNW of San Antonio, Puerto Rico",earthquake,1.3,3,0,7,reviewed,pr,pr
+2015-10-22T23:00:02.400Z,18.0095,-67.1047,13,2.2,Md,8,126,0.00538989,0.1,pr,pr15295013,2015-10-23T00:54:04.474Z,"4km SW of Palmarejo, Puerto Rico",earthquake,1.1,0.6,0,6,reviewed,pr,pr
+2015-10-22T23:52:28.700Z,18.8847,-64.3724,12,2.2,Md,4,327.6,0.52012455,0.14,pr,pr15295010,2015-10-23T00:03:57.632Z,"57km NNE of Road Town, British Virgin Islands",earthquake,6.5,8.3,0,3,reviewed,pr,pr
+2015-10-22T23:53:47.500Z,17.8605,-66.8902,6,2.1,Md,14,223.2,0.11498436,0.23,pr,pr15295011,2015-10-23T00:15:49.993Z,"12km S of Guanica, Puerto Rico",earthquake,0.8,0.5,0,10,reviewed,pr,pr
+2015-10-23T01:52:52.650Z,-32.3763,-72.0691,9.59,4.5,mb,,180,0.74,1.24,us,us10003qvd,2016-01-22T23:41:11.040Z,"79km W of La Ligua, Chile",earthquake,2.4,5.8,0.156,12,reviewed,us,us
+2015-10-23T03:39:13.000Z,19.1611,-67.821,24,2.6,Md,4,342,1.20194585,0.31,pr,pr15296001,2016-01-22T23:41:11.040Z,"88km NE of Punta Cana, Dominican Republic",earthquake,4.9,26.8,0,2,reviewed,pr,pr
+2015-10-23T04:38:19.300Z,18.8314,-64.3184,14,2.7,Md,5,320.4,0.50036161,0.18,pr,pr15296002,2016-01-22T23:41:11.040Z,"55km NE of Road Town, British Virgin Islands",earthquake,2.6,2.3,0,3,reviewed,pr,pr
+2015-10-23T05:25:01.810Z,-29.9521,-68.4605,95.85,4.5,mb,,31,1.6,0.8,us,us10003qvm,2016-01-22T23:41:11.040Z,"42km NE of San Jose de Jachal, Argentina",earthquake,4.5,4.9,0.089,37,reviewed,us,us
+2015-10-23T06:06:35.200Z,18.1261,-67.0709,22,2.7,Md,15,104.4,0.05030566,0.18,pr,pr15296000,2016-01-22T23:41:11.040Z,"4km NNE of Sabana Eneas, Puerto Rico",earthquake,0.4,0.8,0,12,reviewed,pr,pr
+2015-10-23T06:53:12.130Z,3.3338,-84.3057,10,4.5,mb,,87,5.396,0.86,us,us10003qvt,2016-01-22T23:41:11.040Z,"Off the coast of Central America",earthquake,10,1.9,0.084,41,reviewed,us,us
+2015-10-23T07:59:10.100Z,19.1301,-65.5235,29,3,Md,6,266.4,0.84890794,0.1,pr,pr15296005,2016-01-22T23:41:11.040Z,"84km NNE of Vieques, Puerto Rico",earthquake,1,9.7,0,5,reviewed,pr,pr
+2015-10-23T09:33:41.300Z,18.5907,-66.8821,78,3,Md,17,208.8,0.24883333,0.2,pr,pr15296003,2016-01-22T23:41:11.040Z,"12km NNW of Camuy, Puerto Rico",earthquake,1,0.8,0,13,reviewed,pr,pr
+2015-10-23T10:17:05.100Z,18.568,-66.1262,90,2.8,Md,6,208.8,0.39076715,0.27,pr,pr15296004,2016-01-22T23:41:11.040Z,"11km N of San Juan, Puerto Rico",earthquake,4.1,2.3,0,6,reviewed,pr,pr
+2015-10-23T14:47:58.520Z,-30.7656,-71.5533,40.63,4.5,mb,,142,0.115,0.74,us,us10003qz7,2016-01-22T23:41:12.040Z,"38km WSW of Ovalle, Chile",earthquake,8.5,6.4,0.242,5,reviewed,us,us
+2015-10-23T15:48:49.400Z,19.495,-65.5335,78,3.3,Md,6,288,1.2046408,0.34,pr,pr15296006,2016-01-22T23:41:12.040Z,"122km NNE of Vieques, Puerto Rico",earthquake,6.5,14.5,0,6,reviewed,pr,pr
+2015-10-23T16:15:48.700Z,18.9626,-65.1522,15,2.8,Md,3,316.8,0.63600722,0.3,pr,pr15296007,2016-01-22T23:41:12.040Z,"72km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,10.9,21.6,0,3,reviewed,pr,pr
+2015-10-23T17:50:16.200Z,17.9955,-67.0671,14,1.9,Md,4,144,0.03323767,0.31,pr,pr15296008,2015-10-23T20:34:23.233Z,"3km NW of La Parguera, Puerto Rico",earthquake,2.4,2.4,0,3,reviewed,pr,pr
+2015-10-23T18:33:49.000Z,-25.655,-70.785,55,4.2,mb,,,,1.81,us,us10003r26,2016-01-22T23:41:12.040Z,"41km SW of Taltal, Chile",earthquake,8.1,3.8,0.374,3,reviewed,guc,us
+2015-10-24T02:00:57.400Z,18.0312,-65.4215,17,2.3,Md,3,270,0.14013718,0.09,pr,pr15297000,2015-10-24T04:15:13.409Z,"8km SE of Esperanza, Puerto Rico",earthquake,1.3,1.1,0,3,reviewed,pr,pr
+2015-10-24T02:07:18.700Z,17.9794,-67.1088,17,1.8,Md,4,259.2,0.02694946,0.14,pr,pr15297001,2015-10-24T04:16:29.642Z,"6km W of La Parguera, Puerto Rico",earthquake,1.5,0.6,0,2,reviewed,pr,pr
+2015-10-24T02:26:25.450Z,-31.5802,-71.5484,37,4.3,mb,,170,0.906,1.05,us,us2000407r,2016-01-22T23:41:13.040Z,"36km W of Illapel, Chile",earthquake,6.9,8.8,0.267,4,reviewed,us,us
+2015-10-24T04:17:18.500Z,17.9685,-67.1035,17,2,Md,4,262.8,0.03683093,0.2,pr,pr15297002,2015-10-24T07:47:32.496Z,"6km W of La Parguera, Puerto Rico",earthquake,2,0.8,0,4,reviewed,pr,pr
+2015-10-24T08:11:21.500Z,19.2577,-64.7536,23,3.6,Md,16,284.4,0.84531468,0.34,pr,pr15297003,2016-01-22T23:41:13.040Z,"94km N of Road Town, British Virgin Islands",earthquake,1.4,28.1,0,13,reviewed,pr,pr
+2015-10-24T08:17:53.800Z,19.103,-64.5392,37,3.2,Md,12,295.2,0.68631288,0.75,pr,pr15297004,2016-01-22T23:41:13.040Z,"76km N of Road Town, British Virgin Islands",earthquake,4.8,20.7,0,8,reviewed,pr,pr
+2015-10-24T08:51:57.500Z,19.295,-64.692,43,3.2,Md,8,295.2,0.8758574,0.14,pr,pr15297005,2016-01-22T23:41:13.040Z,"97km N of Road Town, British Virgin Islands",earthquake,3,9.5,0,6,reviewed,pr,pr
+2015-10-24T09:13:57.100Z,19.0722,-64.6009,67,3.3,Md,3,342,0.79051745,0.07,pr,pr15297006,2016-01-22T23:41:13.040Z,"72km N of Road Town, British Virgin Islands",earthquake,5.5,5.3,0,3,reviewed,pr,pr
+2015-10-24T09:33:21.200Z,19.193,-64.7174,64,3.3,Md,4,324,0.86597593,0.05,pr,pr15297007,2016-01-22T23:41:13.040Z,"86km N of Road Town, British Virgin Islands",earthquake,3,4.8,0,4,reviewed,pr,pr
+2015-10-24T10:20:25.500Z,18.2064,-67.0609,37,1.9,Md,4,226.8,0.20391757,0.18,pr,pr15297008,2015-10-24T12:57:18.552Z,"8km E of Mayaguez, Puerto Rico",earthquake,1.5,1.8,0,2,reviewed,pr,pr
+2015-10-24T10:43:24.870Z,-30.4287,-71.9638,17.9,4,mwr,,153,0.374,0.98,us,us20004082,2016-01-22T23:41:13.040Z,"75km WNW of Ovalle, Chile",earthquake,6.7,1.3,0.052,36,reviewed,us,us
+2015-10-24T12:09:36.700Z,19.7038,-66.057,34,3.4,Md,12,298.8,1.2989639,0.14,pr,pr15297009,2016-01-22T23:41:13.040Z,"137km N of San Juan, Puerto Rico",earthquake,1.1,10.8,0,6,reviewed,pr,pr
+2015-10-24T14:52:23.000Z,-30.042,-71.309,52.1,4,mb,,,,0.77,us,us10003r6j,2016-01-22T23:41:14.040Z,"10km SSE of Coquimbo, Chile",earthquake,6.4,6.4,0.366,2,reviewed,guc,us
+2015-10-24T15:28:37.900Z,17.8486,-67.1986,13,1.6,Md,3,327.6,0.17696811,0.1,pr,pr15297011,2015-10-24T20:43:20.730Z,"14km S of Pole Ojea, Puerto Rico",earthquake,3.2,1.8,0,3,reviewed,pr,pr
+2015-10-24T15:37:08.100Z,19.673,-66.1165,31,2.9,Md,12,306,1.25135319,0.2,pr,pr15297012,2016-01-22T23:41:14.040Z,"133km N of San Juan, Puerto Rico",earthquake,1.2,14.7,0,7,reviewed,pr,pr
+2015-10-24T17:02:14.150Z,-56.2894,-25.8121,10,4.8,mb,,97,6.421,0.79,us,us2000408a,2016-01-22T23:41:14.040Z,"96km ENE of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,12.8,1.7,0.124,20,reviewed,us,us
+2015-10-24T17:58:10.020Z,-30.7885,-72.7249,10,4.7,mb,,91,0.945,1.48,us,us10003r73,2016-01-22T23:41:14.040Z,"147km W of Ovalle, Chile",earthquake,4.4,1.8,0.088,39,reviewed,us,us
+2015-10-24T18:17:23.000Z,-30.6267,-71.7016,20.9,4,mwr,,124,0.811,0.85,us,us10003r77,2016-01-22T23:41:14.040Z,"48km W of Ovalle, Chile",earthquake,5.3,4.9,0.066,22,reviewed,us,us
+2015-10-24T19:06:06.830Z,-30.5641,-71.7072,29.37,3.9,mwr,,124,0.125,0.81,us,us10003r7e,2016-01-22T23:41:14.040Z,"48km W of Ovalle, Chile",earthquake,3.6,4.4,0.068,21,reviewed,us,us
+2015-10-24T19:14:19.500Z,19.6653,-65.99,34,3.2,Md,10,280.8,1.28548917,0.25,pr,pr15297010,2016-01-22T23:41:14.040Z,"133km N of San Juan, Puerto Rico",earthquake,1.8,16.8,0,7,reviewed,pr,pr
+2015-10-24T19:23:18.700Z,18.5853,-68.98,139,3.9,Md,10,172.8,1.43820277,0.63,pr,pr15297013,2016-01-22T23:41:14.040Z,"0km SSW of Guaymate, Dominican Republic",earthquake,9.7,5.3,0,9,reviewed,pr,pr
+2015-10-24T21:24:45.270Z,-31.442,-71.4883,39.92,5,mww,,74,0.776,0.96,us,us10003r82,2016-02-19T01:58:31.000Z,"37km NW of Illapel, Chile",earthquake,4.5,3.7,,,reviewed,us,us
+2015-10-24T23:13:37.900Z,18.6814,-64.2983,43,2.8,Md,3,338.4,0.3997503,0.01,pr,pr15297014,2016-01-22T23:41:14.040Z,"44km NE of Road Town, British Virgin Islands",earthquake,4.6,2.1,0,2,reviewed,pr,pr
+2015-10-25T01:13:56.900Z,18.863,-64.4309,7,3,Md,6,309.6,0.4761071,0.12,pr,pr15298000,2016-01-22T23:41:14.040Z,"53km NNE of Road Town, British Virgin Islands",earthquake,1.5,1.5,0,6,reviewed,pr,pr
+2015-10-25T02:09:30.390Z,-55.423,-27.8048,13.16,4.8,mb,,67,5.145,0.52,us,us10003r8s,2016-02-19T01:58:32.000Z,"147km NNW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,12,4.2,0.092,37,reviewed,us,us
+2015-10-25T02:13:48.190Z,-55.3325,-27.6749,10,4.5,mb,,71,5.205,0.62,us,us200040es,2016-01-22T23:41:14.040Z,"155km N of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,12.7,1.9,0.14,15,reviewed,us,us
+2015-10-25T02:29:07.310Z,-55.4658,-27.893,10,4.8,mb,,67,5.103,0.55,us,us10003r91,2016-01-22T23:41:14.040Z,"144km NNW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,11.7,1.8,0.094,35,reviewed,us,us
+2015-10-25T04:02:40.110Z,-41.9273,-73.68,53.84,4.3,mb,,153,0.543,0.9,us,us10003r97,2016-01-22T23:41:15.040Z,"13km ESE of Ancud, Chile",earthquake,4.6,10.6,0.148,13,reviewed,us,us
+2015-10-25T05:46:22.980Z,-20.4161,-68.9091,106.76,4.6,mb,,42,0.357,0.89,us,us10003r9i,2016-01-22T23:41:15.040Z,"130km E of Iquique, Chile",earthquake,4.4,5.4,0.093,34,reviewed,us,us
+2015-10-25T05:50:52.700Z,18.1986,-65.1419,14,2.3,Md,3,111.6,0.17157822,0.15,pr,pr15298001,2015-10-25T07:57:50.645Z,"20km SE of Culebra, Puerto Rico",earthquake,0.5,1.4,0,3,reviewed,pr,pr
+2015-10-25T06:31:18.700Z,17.795,-66.9091,16,2.1,Md,5,270,0.21559567,0.33,pr,pr15298002,2015-10-25T07:58:46.935Z,"19km S of Guanica, Puerto Rico",earthquake,1.9,1.9,0,3,reviewed,pr,pr
+2015-10-25T07:00:48.700Z,18.398,-64.7478,7,2.5,Md,13,180,0.12576414,0.31,pr,pr15298003,2016-01-22T23:41:15.040Z,"14km W of Road Town, British Virgin Islands",earthquake,13,7.7,0,9,reviewed,pr,pr
+2015-10-25T11:18:39.650Z,-55.3887,-27.7383,27.48,4.3,mb,,114,5.177,0.46,us,us200040fn,2016-01-22T23:41:15.040Z,"149km NNW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,12.5,5.1,0.188,8,reviewed,us,us
+2015-10-25T13:13:46.760Z,-29.7532,-71.3807,35.32,4.3,mwr,,122,0.206,0.91,us,us10003ray,2016-01-22T23:41:15.040Z,"21km NW of La Serena, Chile",earthquake,4.6,5.6,0.054,33,reviewed,us,us
+2015-10-25T14:47:51.960Z,18.2628,-101.611,41.96,5.2,mww,,48,0.667,0.75,us,us10003rb9,2016-02-19T01:58:33.000Z,"8km N of Tres Palos, Mexico",earthquake,6.6,4,,,reviewed,us,us
+2015-10-25T15:37:42.780Z,-39.4555,-72.6187,78.75,4.3,mb,,169,0.275,0.61,us,us10003rbk,2016-01-22T23:41:15.040Z,"9km S of Loncoche, Chile",earthquake,6.3,4.9,0.267,4,reviewed,us,us
+2015-10-25T16:34:26.950Z,-30.4401,-72.1858,10,4.3,mb,,88,0.529,0.74,us,us10003rbt,2016-01-22T23:41:15.040Z,"96km W of Ovalle, Chile",earthquake,4.7,1.9,0.161,11,reviewed,us,us
+2015-10-25T21:51:37.720Z,-21.9156,-68.6802,113.88,4.1,mb,,51,0.726,0.58,us,us10003rcq,2016-01-22T23:41:16.040Z,"66km NNE of Calama, Chile",earthquake,5,5,0.213,6,reviewed,us,us
+2015-10-25T22:15:45.050Z,-31.9159,-69.1843,112.92,4,mb,,89,0.563,0.92,us,us10003rcs,2016-01-22T23:41:16.040Z,"58km SW of Zonda, Argentina",earthquake,5.8,5.5,0.3,3,reviewed,us,us
+2015-10-26T02:52:43.100Z,18.6527,-67.5245,6,2.5,Md,5,302.4,0.2703929,0.23,pr,pr15299000,2016-01-22T23:41:16.040Z,"45km NW of Rincon, Puerto Rico",earthquake,2.3,2.3,0,5,reviewed,pr,pr
+2015-10-26T02:53:13.500Z,18.5767,-64.9458,15,2.3,Md,5,223.2,0.35034296,0.1,pr,pr15299001,2015-10-26T06:02:46.424Z,"26km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,0.6,0.8,0,4,reviewed,pr,pr
+2015-10-26T12:58:36.800Z,17.6893,-68.8147,77,3.6,Md,13,334.8,1.44628761,0.37,pr,pr15299002,2016-01-22T23:41:17.040Z,"79km SSW of Boca de Yuma, Dominican Republic",earthquake,4,7.2,0,13,reviewed,pr,pr
+2015-10-26T14:26:21.310Z,-30.0752,-72.9545,10,4.5,mb,,128,1.286,1.07,us,us10003rii,2016-01-22T23:41:17.040Z,"155km W of Coquimbo, Chile",earthquake,4.5,1.9,0.27,4,reviewed,us,us
+2015-10-26T14:38:58.330Z,-17.9737,-69.4634,115.72,5,mb,,80,0.923,0.59,us,us10003rik,2016-01-22T23:41:17.040Z,"26km NNE of Putre, Chile",earthquake,7.4,5.3,0.048,137,reviewed,us,us
+2015-10-26T14:59:34.700Z,-35.5963,-70.6717,127.06,4.5,mb,,57,0.63,0.43,us,us10003rir,2016-01-22T23:41:17.040Z,"73km E of San Clemente, Chile",earthquake,7.2,7.2,0.384,2,reviewed,us,us
+2015-10-26T15:53:47.070Z,12.1842,-88.8448,10,4.2,mb,,135,1.54,0.55,us,us200040ik,2016-01-22T23:41:18.040Z,"125km SSW of Puerto El Triunfo, El Salvador",earthquake,7.9,2,0.16,11,reviewed,us,us
+2015-10-26T21:43:54.400Z,18.2448,-67.3119,86,2.9,Md,14,169.2,0.21110409,0.28,pr,pr15299003,2016-01-22T23:41:18.040Z,"10km SW of Stella, Puerto Rico",earthquake,1.2,1.1,0,12,reviewed,pr,pr
+2015-10-26T22:11:50.900Z,18.9015,-67.2034,8,2.7,Md,8,291.6,0.44017449,0.21,pr,pr15299004,2016-01-22T23:41:18.040Z,"46km NNW of San Antonio, Puerto Rico",earthquake,0.9,1,0,8,reviewed,pr,pr
+2015-10-27T01:06:43.830Z,-31.6621,-72.1311,29.2,4.1,mb,,195,1.073,0.48,us,us10003rpa,2016-01-22T23:41:18.040Z,"91km W of Illapel, Chile",earthquake,5.6,7.6,0.261,4,reviewed,us,us
+2015-10-27T02:07:20.800Z,19.1751,-64.278,37,3.1,Md,4,342,1.03845247,0.25,pr,pr15300000,2016-01-22T23:41:18.040Z,"91km NNE of Road Town, British Virgin Islands",earthquake,7,19.5,0,4,reviewed,pr,pr
+2015-10-27T02:09:53.700Z,18.9323,-65.224,41,2.5,Md,4,313.2,0.62343081,0.1,pr,pr15300001,2016-01-22T23:41:18.040Z,"70km N of Culebra, Puerto Rico",earthquake,3.4,7.2,0,3,reviewed,pr,pr
+2015-10-27T02:38:18.740Z,-55.381,-27.3805,20.14,4.3,mb,,67,5.378,0.34,us,us200040rp,2016-01-22T23:41:18.040Z,"147km N of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,9.2,6.3,0.168,10,reviewed,us,us
+2015-10-27T02:38:56.950Z,-30.7728,-72.1007,15.14,4.3,mb,,150,0.413,0.77,us,us10003rq5,2016-01-22T23:41:19.040Z,"88km WSW of Ovalle, Chile",earthquake,2.3,4.3,0.188,8,reviewed,us,us
+2015-10-27T04:05:57.020Z,-30.8476,-71.9958,26.86,4.3,mb,,157,0.355,0.89,us,us10003rqs,2016-01-22T23:41:19.040Z,"81km WSW of Ovalle, Chile",earthquake,2.8,6.8,0.238,5,reviewed,us,us
+2015-10-27T07:19:31.400Z,19.3565,-64.6723,17,3.3,Md,3,338.4,1.03306258,0.23,pr,pr15300002,2016-01-22T23:41:19.040Z,"104km N of Road Town, British Virgin Islands",earthquake,9.3,18.8,0,3,reviewed,pr,pr
+2015-10-27T11:18:19.200Z,18.9892,-67.1908,7,3.2,Md,6,302.4,0.52461613,0.57,pr,pr15300003,2016-01-22T23:41:19.040Z,"55km N of San Antonio, Puerto Rico",earthquake,6.1,5.5,0,6,reviewed,pr,pr
+2015-10-27T16:21:56.350Z,-34.7956,-72.8454,9.74,4.4,mb,,97,0.781,0.76,us,us10003rwm,2016-01-22T23:41:20.040Z,"71km NNW of Constitucion, Chile",earthquake,3.3,6.3,0.268,4,reviewed,us,us
+2015-10-27T18:32:30.270Z,-32.7727,-71.6589,26.58,4.4,mb,,139,0.25,1.03,us,us20003zyf,2016-01-22T23:41:20.040Z,"29km NNW of Vina del Mar, Chile",earthquake,3.8,2.4,0.155,12,reviewed,us,us
+2015-10-27T22:25:01.220Z,16.4378,-97.9804,10,4.6,mb,,116,0.147,1.02,us,us20004000,2016-01-22T23:41:20.040Z,"2km N of San Pedro Jicayan, Mexico",earthquake,5.4,1.9,0.056,95,reviewed,us,us
+2015-10-27T22:49:41.760Z,13.3212,-88.0872,144.97,4.9,mww,,50,1.077,1.03,us,us20004005,2016-02-19T01:58:44.000Z,"12km NNE of Chirilagua, El Salvador",earthquake,6.5,4.2,,,reviewed,us,us
+2015-10-28T01:13:40.800Z,17.9395,-66.8868,13,1.5,Md,5,216,0.1527136,0.2,pr,pr15301001,2015-10-28T04:04:08.748Z,"4km SSE of Guanica, Puerto Rico",earthquake,1.9,1.8,0,4,reviewed,pr,pr
+2015-10-28T02:12:27.500Z,18.1154,-66.574,19,2.5,Md,15,57.6,0.04042419,0.2,pr,pr15301000,2016-01-22T23:41:21.040Z,"7km NNW of Coto Laurel, Puerto Rico",earthquake,0.5,0.4,0,13,reviewed,pr,pr
+2015-10-28T02:43:11.000Z,17.8521,-67.1522,5,2.3,Md,5,302.4,0.15451023,0.15,pr,pr15301002,2015-10-28T04:05:33.990Z,"14km SSE of Pole Ojea, Puerto Rico",earthquake,0.9,0.5,0,5,reviewed,pr,pr
+2015-10-28T04:12:06.920Z,-30.2931,-71.6389,35.73,4.1,mb,,90,0.379,0.84,us,us2000402g,2016-01-22T23:41:21.040Z,"47km SW of Coquimbo, Chile",earthquake,5.5,8.1,0.175,9,reviewed,us,us
+2015-10-28T04:54:55.470Z,-30.8713,-71.4536,41.38,4.5,mb,,77,0.251,0.56,us,us2000402p,2016-01-22T23:41:21.040Z,"38km SW of Ovalle, Chile",earthquake,5.3,2.6,0.145,14,reviewed,us,us
+2015-10-28T09:01:25.350Z,15.4992,-95.3411,20.23,4.1,mb,,168,0.786,0.98,us,us10003wyy,2016-01-22T23:41:21.040Z,"75km SSW of Salina Cruz, Mexico",earthquake,5.1,7.1,0.262,4,reviewed,us,us
+2015-10-28T09:02:43.610Z,-10.61,-76.8352,126.74,4.5,mb,,136,4.981,0.74,us,us10004215,2016-01-22T23:41:21.040Z,"9km NW of Oyon, Peru",earthquake,9.3,8.2,0.122,20,reviewed,us,us
+2015-10-28T09:08:00.000Z,-23.153,-70.607,31.3,4.9,mww,,,,0.79,us,us2000403h,2016-02-19T01:58:48.000Z,"58km NNW of Antofagasta, Chile",earthquake,6.3,4,,,reviewed,guc,us
+2015-10-28T14:04:55.810Z,13.9473,-58.326,20.73,4.2,mb,,228,1.44,0.88,us,us2000405f,2016-01-22T23:41:21.040Z,"152km ENE of Bathsheba, Barbados",earthquake,8.6,8.8,0.186,8,reviewed,us,us
+2015-10-28T17:10:55.290Z,-9.6416,-71.2977,603.66,4.5,mb,,68,2.354,0.83,us,us2000409l,2016-01-22T23:41:22.040Z,"173km SSW of Tarauaca, Brazil",earthquake,10.4,7.1,0.057,89,reviewed,us,us
+2015-10-28T18:20:52.910Z,15.687,-93.8524,75.55,4.1,mb,,154,0.61,1.21,us,us200040ti,2016-01-22T23:41:22.040Z,"38km S of Paredon, Mexico",earthquake,6.5,7.3,0.09,34,reviewed,us,us
+2015-10-28T19:21:40.500Z,18.3122,-67.3462,4,2.6,Md,5,270,0.27129122,0.15,pr,pr15301003,2016-01-22T23:41:22.040Z,"10km WSW of Rincon, Puerto Rico",earthquake,2.2,1.9,0,4,reviewed,pr,pr
+2015-10-28T19:45:03.300Z,-23.2998,-69.0924,62.18,4.6,mb,,38,0.359,0.74,us,us200040an,2016-01-22T23:41:22.040Z,"93km S of Calama, Chile",earthquake,5.8,5.3,0.061,82,reviewed,us,us
+2015-10-29T00:02:55.500Z,19.183,-64.6275,7,2.1,Md,3,327.6,0.88304392,0.14,pr,pr15302016,2015-10-30T19:47:44.813Z,"84km N of Road Town, British Virgin Islands",earthquake,9.2,8.7,0,2,reviewed,pr,pr
+2015-10-29T00:34:23.010Z,6.8083,-73.0203,154.83,4.5,mb,,37,0.911,0.83,us,us200040cm,2016-01-30T02:10:53.040Z,"12km N of Aratoca, Colombia",earthquake,6.8,6,0.063,73,reviewed,us,us
+2015-10-29T00:36:50.700Z,17.8202,-66.6986,14,1.9,Md,4,270,0.23805355,0.25,pr,pr15302000,2015-10-29T04:43:30.477Z,"19km S of Tallaboa, Puerto Rico",earthquake,2.4,18.8,0,3,reviewed,pr,pr
+2015-10-29T00:44:17.200Z,19.1506,-64.6307,24,2.3,Md,3,327.6,0.85160289,0.17,pr,pr15302001,2015-10-29T04:44:05.641Z,"81km N of Road Town, British Virgin Islands",earthquake,1.9,16.6,0,2,reviewed,pr,pr
+2015-10-29T01:16:22.080Z,-56.0239,-27.6803,106.31,4,mb,,114,5.343,0.2,us,us200041cd,2016-01-30T02:10:54.040Z,"80km NNW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,13.2,8.4,0.164,10,reviewed,us,us
+2015-10-29T01:28:49.580Z,21.3612,-45.919,10,4.6,mb,,108,15.903,0.61,us,us200041bm,2016-01-30T02:10:54.040Z,"Northern Mid-Atlantic Ridge",earthquake,7.8,2,0.151,13,reviewed,us,us
+2015-10-29T01:48:24.500Z,19.1984,-68.4365,157,3.7,Md,6,327.6,1.44898255,0.25,pr,pr15302002,2016-01-30T02:10:54.040Z,"53km NE of Santa Barbara de Samana, Dominican Republic",earthquake,4.6,3.9,0,4,reviewed,pr,pr
+2015-10-29T02:12:12.800Z,18.0955,-67.0923,30,1.5,Md,3,172.8,0.07905175,0.02,pr,pr15302003,2015-10-29T04:45:05.881Z,"1km NW of Sabana Eneas, Puerto Rico",earthquake,2.2,0.9,0,2,reviewed,pr,pr
+2015-10-29T02:30:05.600Z,19.2084,-64.6351,24,3.1,Md,6,306,0.78692419,0.28,pr,pr15302004,2016-01-30T02:10:54.040Z,"87km N of Road Town, British Virgin Islands",earthquake,2,25.3,0,4,reviewed,pr,pr
+2015-10-29T03:19:22.500Z,-31.7533,-71.7524,31.09,4.2,mb,,183,1.08,0.5,us,us200040d8,2016-01-30T02:10:54.040Z,"57km WSW of Illapel, Chile",earthquake,5,7.6,0.303,3,reviewed,us,us
+2015-10-29T04:02:47.070Z,-10.4574,-76.7469,106.98,4.3,mb,,182,3.68,0.92,us,us200040dc,2016-01-30T02:10:54.040Z,"23km W of Chaupimarca, Peru",earthquake,5.2,10.6,0.107,25,reviewed,us,us
+2015-10-29T04:40:05.600Z,17.989,-67.083,18,2.4,Md,8,187.2,0.03054272,0.11,pr,pr15302005,2015-10-29T04:58:32.555Z,"4km WNW of La Parguera, Puerto Rico",earthquake,0.9,0.4,0,6,reviewed,pr,pr
+2015-10-29T06:34:47.000Z,-34.699,-71.837,41.5,4.1,mwr,,,,0.74,us,us200040dv,2016-01-30T02:10:54.040Z,"43km W of Santa Cruz, Chile",earthquake,5.1,6.3,0.065,23,reviewed,guc,us
+2015-10-29T10:28:21.250Z,-28.7086,-70.5038,111.53,4.3,mb,,131,0.347,1.43,us,us200041ce,2016-01-30T02:10:54.040Z,"29km ESE of Vallenar, Chile",earthquake,8.1,10,0.376,2,reviewed,us,us
+2015-10-29T10:31:27.050Z,-31.7198,-72.1,10,4.6,mb,,144,1.116,0.75,us,us200040e4,2016-01-30T02:10:54.040Z,"89km W of Illapel, Chile",earthquake,6.2,1.9,0.157,12,reviewed,us,us
+2015-10-29T11:34:30.030Z,-31.778,-72.2967,10.31,4.3,mwr,,151,1.238,0.95,us,us200040eh,2016-01-30T02:10:54.040Z,"108km W of Illapel, Chile",earthquake,7.2,5.1,0.049,40,reviewed,us,us
+2015-10-29T11:51:07.000Z,-31.741,-72.193,23,4,ml,,,,0.96,us,us200040ek,2016-01-30T02:10:54.040Z,"98km W of Illapel, Chile",earthquake,7.9,8.9,,,reviewed,guc,guc
+2015-10-29T11:59:57.400Z,18.721,-66.081,36,2.6,Md,7,234,0.48958183,0.2,pr,pr15302006,2016-01-30T02:10:54.040Z,"28km N of San Juan, Puerto Rico",earthquake,1.5,3,0,5,reviewed,pr,pr
+2015-10-29T13:49:16.800Z,19.2838,-64.8375,48,3.1,Md,4,320.4,0.93334958,0.11,pr,pr15302007,2016-01-30T02:10:54.040Z,"98km NNW of Road Town, British Virgin Islands",earthquake,4.1,10.7,0,3,reviewed,pr,pr
+2015-10-29T13:50:27.600Z,19.1732,-64.721,45,2.6,Md,3,338.4,1.01150301,0.02,pr,pr15302008,2016-01-30T02:10:54.040Z,"84km N of Road Town, British Virgin Islands",earthquake,2,6.2,0,2,reviewed,pr,pr
+2015-10-29T14:08:57.000Z,-30.617,-71.642,43,4.4,mb,,,,1.37,us,us200040gn,2016-01-30T02:10:54.040Z,"42km W of Ovalle, Chile",earthquake,7.6,6.1,0.269,4,reviewed,guc,us
+2015-10-29T14:16:25.400Z,19.3173,-64.7273,46,3.3,Md,4,324,0.98365524,0.18,pr,pr15302009,2016-01-30T02:10:54.040Z,"100km N of Road Town, British Virgin Islands",earthquake,4.1,12.2,0,3,reviewed,pr,pr
+2015-10-29T14:19:26.200Z,19.3766,-64.7395,24,3.2,Md,4,324,1.03845247,0.28,pr,pr15302010,2016-01-30T02:10:54.040Z,"107km N of Road Town, British Virgin Islands",earthquake,2.8,25.1,0,3,reviewed,pr,pr
+2015-10-29T14:27:59.120Z,1.4147,-102.2278,10,4.6,mb,,212,16.446,0.62,us,us200040gb,2016-02-19T01:58:55.000Z,"Galapagos Triple Junction region",earthquake,14.6,2,0.1,30,reviewed,us,us
+2015-10-29T16:20:15.000Z,-31.848,-72.164,20,3.9,mwr,,,,1.27,us,us200040gz,2016-01-30T02:10:55.040Z,"97km WSW of Illapel, Chile",earthquake,5.9,5.3,0.059,28,reviewed,guc,us
+2015-10-29T19:52:38.300Z,19.2525,-64.3505,33,2.8,Md,3,345.6,1.06270698,0.1,pr,pr15302013,2016-01-30T02:10:55.040Z,"96km NNE of Road Town, British Virgin Islands",earthquake,3.1,11.1,0,2,reviewed,pr,pr
+2015-10-29T20:41:08.600Z,-41.115,-91.0463,10,4.9,mb,,95,13.973,1.21,us,us200040kc,2016-02-19T01:58:56.000Z,"Southeast of Easter Island",earthquake,12.2,1.8,0.053,114,reviewed,us,us
+2015-10-29T21:47:46.700Z,17.7749,-65.5855,36,2.4,Md,3,302.4,0.32069856,0.02,pr,pr15302014,2015-10-30T17:42:55.413Z,"37km SSW of Esperanza, Puerto Rico",earthquake,1.1,1.5,0,2,reviewed,pr,pr
+2015-10-29T22:18:27.600Z,19.186,-68.762,128,3.8,Md,8,338.4,1.45347413,0.3,pr,pr15302015,2016-01-30T02:10:55.040Z,"37km NE of Miches, Dominican Republic",earthquake,6.1,4.6,0,6,reviewed,pr,pr
+2015-10-29T22:40:25.090Z,6.8498,-73.0719,146.37,4.5,mb,,31,0.95,0.74,us,us200040ls,2016-01-30T02:10:55.040Z,"15km S of Piedecuesta, Colombia",earthquake,5.7,4.4,0.048,128,reviewed,us,us
+2015-10-29T22:53:18.400Z,19.0097,-64.3803,50,2.9,Md,4,345.6,1.10402948,0.07,pr,pr15302011,2016-01-30T02:10:55.040Z,"70km NNE of Road Town, British Virgin Islands",earthquake,2.8,6,0,4,reviewed,pr,pr
+2015-10-29T23:17:21.400Z,18.2133,-67.8539,121,3,Md,8,316.8,0.39436041,0.37,pr,pr15302012,2016-01-30T02:10:55.040Z,"65km WSW of Rincon, Puerto Rico",earthquake,3.7,1.4,0,6,reviewed,pr,pr
+2015-10-30T02:24:30.280Z,-30.7421,-71.5608,31.43,4.2,mb,,133,0.093,0.92,us,us200040md,2016-01-30T02:10:55.040Z,"38km WSW of Ovalle, Chile",earthquake,6.9,3.9,0.305,3,reviewed,us,us
+2015-10-30T02:40:47.500Z,19.139,-64.6958,54,2.9,Md,3,342,0.99623165,0.58,pr,pr15303001,2016-01-30T02:10:55.040Z,"80km N of Road Town, British Virgin Islands",earthquake,13.1,29.2,0,3,reviewed,pr,pr
+2015-10-30T02:54:39.700Z,19.1648,-64.4927,38,2.7,Md,4,331.2,0.91897654,0.3,pr,pr15303000,2016-01-30T02:10:55.040Z,"83km N of Road Town, British Virgin Islands",earthquake,7.4,21.1,0,3,reviewed,pr,pr
+2015-10-30T03:05:54.500Z,18.0384,-68.5446,70,3.4,Md,12,338.4,1.06899519,0.33,pr,pr15303005,2016-01-30T02:10:55.040Z,"38km S of Boca de Yuma, Dominican Republic",earthquake,3.5,4.3,0,9,reviewed,pr,pr
+2015-10-30T03:16:25.700Z,19.1816,-64.6471,24,3.1,Md,4,327.6,0.87495909,0.27,pr,pr15303006,2016-01-30T02:10:55.040Z,"84km N of Road Town, British Virgin Islands",earthquake,2.7,23,0,3,reviewed,pr,pr
+2015-10-30T03:20:50.900Z,18.1704,-66.7478,16,2,Md,7,111.6,0.17517148,0.09,pr,pr15303007,2015-10-30T09:00:54.816Z,"5km ENE of Adjuntas, Puerto Rico",earthquake,0.4,0.6,0,4,reviewed,pr,pr
+2015-10-30T03:28:23.700Z,19.1362,-65.4294,39,2.9,Md,3,324,0.83543321,0.02,pr,pr15303024,2016-01-30T02:10:56.040Z,"89km NNE of Luquillo, Puerto Rico",earthquake,1.5,6,0,1,reviewed,pr,pr
+2015-10-30T04:15:59.000Z,19.2465,-64.8653,24,3.3,Md,8,298.8,0.8578911,0.18,pr,pr15303002,2016-01-30T02:10:56.040Z,"95km NNW of Road Town, British Virgin Islands",earthquake,1.2,16.6,0,6,reviewed,pr,pr
+2015-10-30T04:40:12.100Z,18.0182,-66.805,8,1.9,Md,4,183.6,0.19044284,0.1,pr,pr15303008,2015-10-30T09:02:35.238Z,"1km W of Guayanilla, Puerto Rico",earthquake,0.5,8.9,0,2,reviewed,pr,pr
+2015-10-30T04:45:41.020Z,-10.0414,-75.353,52.3,4.3,mb,,93,3.481,0.94,us,us200040n3,2016-01-30T02:10:56.040Z,"59km N of Oxapampa, Peru",earthquake,9.2,7.3,0.113,22,reviewed,us,us
+2015-10-30T04:53:57.600Z,18.774,-66.0899,48,2.6,Md,3,320.4,0.46263237,0.12,pr,pr15303009,2016-01-30T02:10:56.040Z,"34km N of San Juan, Puerto Rico",earthquake,4.6,5.5,0,2,reviewed,pr,pr
+2015-10-30T05:47:09.000Z,19.177,-64.653,24,2.5,Md,5,316.8,0.75548315,0.15,pr,pr15303010,2016-01-30T02:10:56.040Z,"84km N of Road Town, British Virgin Islands",earthquake,1.2,14.6,0,2,reviewed,pr,pr
+2015-10-30T06:12:19.700Z,18.6397,-66.9059,19,3,Md,15,223.2,0.2587148,0.18,pr,pr15303003,2016-01-30T02:10:56.040Z,"18km N of Quebradillas, Puerto Rico",earthquake,0.5,0.5,0,12,reviewed,pr,pr
+2015-10-30T06:34:14.100Z,17.7523,-65.4063,15,2.4,Md,7,198,0.3701059,0.17,pr,pr15303011,2015-10-30T09:04:25.755Z,"38km S of Esperanza, Puerto Rico",earthquake,0.8,1.2,0,6,reviewed,pr,pr
+2015-10-30T06:56:25.800Z,19.1725,-64.597,30,3.2,Md,12,291.6,0.75099158,0.23,pr,pr15303004,2016-01-30T02:10:56.040Z,"83km N of Road Town, British Virgin Islands",earthquake,2.8,16.7,0,9,reviewed,pr,pr
+2015-10-30T07:16:05.500Z,19.1865,-64.6266,33,2.8,Md,3,316.8,0.76446631,0.18,pr,pr15303028,2016-01-30T02:10:56.040Z,"85km N of Road Town, British Virgin Islands",earthquake,3.9,15.3,0,3,reviewed,pr,pr
+2015-10-30T07:27:43.400Z,18.9085,-68.6453,145,3.5,Md,10,334.8,1.22170879,0.8,pr,pr15303018,2016-01-30T02:10:56.040Z,"28km N of Otra Banda, Dominican Republic",earthquake,19.6,8.5,0,6,reviewed,pr,pr
+2015-10-30T07:55:08.690Z,-31.8309,-72.0567,2.31,4.3,mb,,194,1.208,0.58,us,us200040nr,2016-01-30T02:10:56.040Z,"87km WSW of Illapel, Chile",earthquake,5.1,3.2,0.239,5,reviewed,us,us
+2015-10-30T07:57:44.900Z,19.0552,-64.5715,46,2.9,Md,4,342,0.78692419,0.17,pr,pr15303023,2016-01-30T02:10:56.040Z,"70km N of Road Town, British Virgin Islands",earthquake,6.9,10.4,0,3,reviewed,pr,pr
+2015-10-30T07:59:41.030Z,14.126,-91.5393,64.75,4.4,mb,,174,1.185,0.71,us,us200041k0,2016-01-30T02:10:56.040Z,"25km SW of Pueblo Nuevo Tiquisate, Guatemala",earthquake,8.9,9.5,0.143,14,reviewed,us,us
+2015-10-30T08:10:52.700Z,19.097,-64.5522,43,2.9,Md,4,327.6,0.83363658,0.11,pr,pr15303025,2016-01-30T02:10:56.040Z,"75km N of Road Town, British Virgin Islands",earthquake,3.5,8.1,0,4,reviewed,pr,pr
+2015-10-30T08:14:11.000Z,19.0809,-64.5719,54,2.3,Md,3,342,0.80938207,0.28,pr,pr15303026,2015-10-30T19:33:53.213Z,"73km N of Road Town, British Virgin Islands",earthquake,11.2,14.2,0,3,reviewed,pr,pr
+2015-10-30T08:32:21.000Z,19.0655,-64.5398,48,2.7,Md,3,342,0.8111787,0.25,pr,pr15303027,2016-01-30T02:10:56.040Z,"72km N of Road Town, British Virgin Islands",earthquake,10.1,15,0,3,reviewed,pr,pr
+2015-10-30T08:41:08.200Z,19.1299,-64.6041,46,3.3,Md,14,288,0.70966907,0.34,pr,pr15303012,2016-01-30T02:10:56.040Z,"78km N of Road Town, British Virgin Islands",earthquake,6.1,14.5,0,8,reviewed,pr,pr
+2015-10-30T08:46:51.700Z,19.003,-64.4135,33,2.5,Md,3,345.6,1.07438508,0.2,pr,pr15303029,2016-01-30T02:10:56.040Z,"68km NNE of Road Town, British Virgin Islands",earthquake,4.8,15.5,0,2,reviewed,pr,pr
+2015-10-30T08:49:23.000Z,19.027,-64.5595,46,2.5,Md,3,316.8,0.60905776,0.07,pr,pr15303031,2016-01-30T02:10:56.040Z,"67km N of Road Town, British Virgin Islands",earthquake,4.1,6.5,0,2,reviewed,pr,pr
+2015-10-30T08:50:54.600Z,19.0664,-64.72,42,2.8,Md,3,334.8,0.74470337,0.12,pr,pr15303033,2016-01-30T02:10:56.040Z,"72km N of Road Town, British Virgin Islands",earthquake,5.1,9.7,0,2,reviewed,pr,pr
+2015-10-30T09:18:11.900Z,18.9986,-64.5262,47,2.7,Md,3,342,0.75907642,0.15,pr,pr15303035,2016-01-30T02:10:56.040Z,"65km N of Road Town, British Virgin Islands",earthquake,7.1,9,0,3,reviewed,pr,pr
+2015-10-30T09:20:44.300Z,19.1685,-64.6128,39,2.6,Md,5,306,0.7465,0.18,pr,pr15303038,2016-01-30T02:10:56.040Z,"83km N of Road Town, British Virgin Islands",earthquake,4.3,13.2,0,4,reviewed,pr,pr
+2015-10-30T09:27:32.700Z,19.0412,-64.4322,47,2.9,Md,4,338.4,0.84441637,0.23,pr,pr15303037,2016-01-30T02:10:56.040Z,"71km NNE of Road Town, British Virgin Islands",earthquake,9.4,13.3,0,3,reviewed,pr,pr
+2015-10-30T09:43:10.400Z,19.0921,-64.7126,58,2.8,Md,4,324,0.77075451,0.4,pr,pr15303020,2016-01-30T02:10:56.040Z,"75km N of Road Town, British Virgin Islands",earthquake,9.8,15.8,0,3,reviewed,pr,pr
+2015-10-30T10:10:45.100Z,19.1767,-64.6461,6,3.3,Md,12,288,0.75548315,0.37,pr,pr15303013,2016-01-30T02:10:56.040Z,"84km N of Road Town, British Virgin Islands",earthquake,8.1,7.8,0,10,reviewed,pr,pr
+2015-10-30T10:12:54.500Z,19.197,-64.6193,20,3.4,Md,11,288,0.77614441,0.31,pr,pr15303014,2016-01-30T02:10:56.040Z,"86km N of Road Town, British Virgin Islands",earthquake,1.6,28.2,0,8,reviewed,pr,pr
+2015-10-30T10:14:20.700Z,19.1875,-64.6345,25,3.4,Md,12,288,0.76626294,0.23,pr,pr15303015,2016-01-30T02:10:56.040Z,"85km N of Road Town, British Virgin Islands",earthquake,1.4,18,0,11,reviewed,pr,pr
+2015-10-30T10:17:08.700Z,19.1737,-64.6146,28,3,Md,6,306,0.75278821,0.18,pr,pr15303016,2016-01-30T02:10:56.040Z,"83km N of Road Town, British Virgin Islands",earthquake,2.4,16.6,0,5,reviewed,pr,pr
+2015-10-30T10:24:41.800Z,19.1623,-64.6713,38,2.9,Md,4,324,0.84890794,0.18,pr,pr15303021,2016-01-30T02:10:56.040Z,"82km N of Road Town, British Virgin Islands",earthquake,3.7,12.7,0,4,reviewed,pr,pr
+2015-10-30T10:27:10.300Z,19.01,-64.6085,52,2.4,Md,3,342,0.73212696,0.27,pr,pr15303030,2015-10-30T21:25:01.639Z,"65km N of Road Town, British Virgin Islands",earthquake,11,13,0,3,reviewed,pr,pr
+2015-10-30T10:33:42.200Z,18.8577,-64.5491,74,2.9,Md,5,327.6,0.63331228,0.28,pr,pr15303019,2016-01-30T02:10:57.040Z,"49km N of Road Town, British Virgin Islands",earthquake,8.5,6.2,0,4,reviewed,pr,pr
+2015-10-30T10:43:41.200Z,19.0438,-64.5647,48,2.3,Md,4,316.8,0.62432912,0.05,pr,pr15303032,2015-10-30T22:06:21.203Z,"69km N of Road Town, British Virgin Islands",earthquake,4,6,0,3,reviewed,pr,pr
+2015-10-30T10:56:41.700Z,19.1215,-64.5582,45,2.7,Md,4,327.6,0.8525012,0.18,pr,pr15303034,2016-01-30T02:10:57.040Z,"78km N of Road Town, British Virgin Islands",earthquake,5.9,11.9,0,3,reviewed,pr,pr
+2015-10-30T11:00:57.500Z,19.1543,-64.6348,39,2.6,Md,5,302.4,0.73302527,0.2,pr,pr15303036,2016-01-30T02:10:57.040Z,"81km N of Road Town, British Virgin Islands",earthquake,4.3,13.2,0,5,reviewed,pr,pr
+2015-10-30T11:04:50.200Z,19.1235,-64.6867,43,3.2,Md,3,342,0.98814681,0.05,pr,pr15303040,2016-01-30T02:10:57.040Z,"78km N of Road Town, British Virgin Islands",earthquake,2,6.6,0,3,reviewed,pr,pr
+2015-10-30T11:10:06.600Z,18.7637,-64.4558,28,2.5,Md,3,345.6,0.62432912,0.2,pr,pr15303039,2016-01-30T02:10:57.040Z,"42km NNE of Road Town, British Virgin Islands",earthquake,6.7,12.3,0,3,reviewed,pr,pr
+2015-10-30T11:29:26.400Z,19.0702,-64.5596,38,2.7,Md,3,342,1.02228279,0.31,pr,pr15303042,2016-01-30T02:10:57.040Z,"72km N of Road Town, British Virgin Islands",earthquake,5.9,20.6,0,2,reviewed,pr,pr
+2015-10-30T11:30:45.900Z,19.0853,-64.5759,63,3,Md,8,291.6,0.66475331,0.5,pr,pr15303041,2016-01-30T02:10:57.040Z,"74km N of Road Town, British Virgin Islands",earthquake,12.1,16.2,0,5,reviewed,pr,pr
+2015-10-30T11:58:33.200Z,19.128,-64.5309,41,3,Md,4,327.6,0.8695692,0.25,pr,pr15303044,2016-01-30T02:10:57.040Z,"79km N of Road Town, British Virgin Islands",earthquake,5.5,15,0,4,reviewed,pr,pr
+2015-10-30T12:15:56.700Z,19.0695,-64.4318,25,2.6,Md,3,345.6,0.86777256,0.34,pr,pr15303043,2016-01-30T02:10:57.040Z,"74km NNE of Road Town, British Virgin Islands",earthquake,7.2,28.4,0,2,reviewed,pr,pr
+2015-10-30T12:41:40.690Z,-31.7046,-71.993,34.98,4.2,mb,,150,1.072,0.79,us,us200041kb,2016-01-30T02:10:57.040Z,"78km W of Illapel, Chile",earthquake,7.5,11.4,0.2,7,reviewed,us,us
+2015-10-30T13:28:11.500Z,19.1569,-64.5302,34,2.7,Md,4,327.6,0.89472202,0.14,pr,pr15303045,2016-01-30T02:10:57.040Z,"82km N of Road Town, British Virgin Islands",earthquake,2.7,10.9,0,3,reviewed,pr,pr
+2015-10-30T16:19:58.300Z,19.1669,-64.5227,24,2.6,Md,3,342,0.90729844,0.21,pr,pr15303046,2016-01-30T02:10:57.040Z,"83km N of Road Town, British Virgin Islands",earthquake,4.3,20.1,0,2,reviewed,pr,pr
+2015-10-30T17:26:56.900Z,19.1704,-65.9517,127,3.3,Md,9,277.2,0.88034898,0.61,pr,pr15303022,2016-01-30T02:10:57.040Z,"79km NNE of San Juan, Puerto Rico",earthquake,9.2,6.9,0,8,reviewed,pr,pr
+2015-10-30T18:56:31.140Z,18.9205,-65.2353,33.65,2.8,md,,253,0.618,0.24,us,us2000410s,2016-01-30T02:10:57.040Z,"68km N of Culebra, Puerto Rico",earthquake,6.2,9.5,,13,reviewed,pr,pr
+2015-10-30T20:00:31.160Z,-30.0719,-66.5968,23.97,4.6,mb,,54,2.32,1.1,us,us200040wh,2016-01-30T02:10:57.040Z,"41km NW of Chamical, Argentina",earthquake,5.8,4.7,0.173,13,reviewed,us,us
+2015-10-30T21:59:01.200Z,18.9899,-64.373,32,2.9,Md,6,316.8,0.61534597,0.15,pr,pr15303048,2016-01-30T02:10:58.040Z,"68km NNE of Road Town, British Virgin Islands",earthquake,3.8,10.6,0,6,reviewed,pr,pr
+2015-10-30T23:56:30.100Z,13.1258,-88.6936,70,4.4,mb,,170,0.764,0.89,us,us200041kp,2016-01-30T02:10:58.040Z,"23km SW of Puerto El Triunfo, El Salvador",earthquake,8,11.6,0.082,43,reviewed,us,us
+2015-10-31T02:11:48.700Z,19.0774,-64.374,52,3,Md,4,334.8,0.90729844,0.12,pr,pr15304000,2016-01-30T02:10:58.040Z,"77km NNE of Road Town, British Virgin Islands",earthquake,4.7,7.3,0,4,reviewed,pr,pr
+2015-10-31T02:19:10.690Z,-18.5011,-71.5152,10,4.2,mb,,134,1.121,0.89,us,us20004106,2016-01-30T02:10:58.040Z,"97km S of Ilo, Peru",earthquake,4.5,1.9,0.187,8,reviewed,us,us
+2015-10-31T03:24:34.400Z,18.8887,-65.0152,25,3,Md,3,327.6,0.62971901,0.36,pr,pr15304001,2016-01-30T02:10:58.040Z,"61km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.9,25.4,0,3,reviewed,pr,pr
+2015-10-31T03:54:51.900Z,17.8103,-66.8933,8,2.1,Md,4,262.8,0.21290072,0.17,pr,pr15304002,2015-10-31T09:00:19.994Z,"17km S of Guanica, Puerto Rico",earthquake,1.4,14.3,0,3,reviewed,pr,pr
+2015-10-31T06:56:32.700Z,19.455,-68.692,35,3.5,Md,11,205.2,1.56576354,0.31,pr,pr15304005,2016-01-30T02:10:58.040Z,"64km NE of Miches, Dominican Republic",earthquake,3.2,22.3,0,4,reviewed,pr,pr
+2015-10-31T12:13:58.930Z,13.2506,-90.6608,51.34,4.4,mb,,136,1.456,0.99,us,us2000412e,2016-01-30T02:10:59.040Z,"75km S of Iztapa, Guatemala",earthquake,9,7.6,0.057,88,reviewed,us,us
+2015-10-31T13:34:37.710Z,19.5975,-70.5336,18.85,3.5,ml,,120,0.249,0.74,us,us2000418a,2016-01-30T02:10:59.040Z,"10km WSW of Jamao al Norte, Dominican Republic",earthquake,4.6,8.9,0.088,17,reviewed,us,us
+2015-10-31T15:10:14.240Z,10.1579,-83.9855,15.93,4.6,mb,,56,0.198,0.66,us,us20004132,2016-01-30T02:10:59.040Z,"19km NNE of Angeles, Costa Rica",earthquake,1.8,3.8,0.172,10,reviewed,us,us
+2015-10-31T16:41:25.400Z,18.3439,-64.6615,57,2.2,Md,4,234,0.08354332,0.05,pr,pr15304003,2015-10-31T19:48:59.717Z,"9km SSW of Road Town, British Virgin Islands",earthquake,8.8,1,0,3,reviewed,pr,pr
+2015-10-31T17:34:54.350Z,10.4767,-86.2008,14,4.4,mb,,120,0.64,0.83,us,us2000413w,2016-01-30T02:10:59.040Z,"60km W of Sardinal, Costa Rica",earthquake,5.9,1.9,0.069,61,reviewed,us,us
+2015-10-31T18:14:47.670Z,7.394,-80.6337,34.19,4.2,mb,,132,1.929,0.97,us,us200041mi,2016-01-30T02:10:59.040Z,"20km W of Tonosi, Panama",earthquake,7.6,5,0.215,7,reviewed,us,us
+2015-10-31T18:20:16.180Z,-55.68,-27.3589,54.42,4.4,mb,,114,5.44,1.36,us,us200041mw,2016-01-30T02:10:59.040Z,"113km N of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,11.3,8.4,0.143,15,reviewed,us,us
+2015-10-31T18:24:53.240Z,-55.2981,-26.7034,33.08,4,mb,,124,5.752,0.85,us,us200041mx,2016-01-30T02:10:59.040Z,"159km NNE of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,15,8.7,0.231,6,reviewed,us,us
+2015-10-31T18:35:08.200Z,18.937,-65.2498,34,2.7,Md,11,237.6,0.62702407,0.2,pr,pr15304004,2016-01-30T02:10:59.040Z,"70km N of Culebra, Puerto Rico",earthquake,2,7.8,0,10,reviewed,pr,pr
+2015-10-31T19:29:17.450Z,-31.0944,-71.8204,20.13,4.1,mb,,189,0.448,0.67,us,us20004145,2016-01-30T02:10:59.040Z,"80km SW of Ovalle, Chile",earthquake,3.1,6.5,0.198,7,reviewed,us,us
+2015-10-31T20:22:21.410Z,8.3924,-82.816,21.64,4.3,mb,,138,0.188,0.72,us,us200041mr,2016-01-30T02:10:59.040Z,"1km WSW of La Esperanza, Panama",earthquake,6.8,7,0.266,4,reviewed,us,us
+2015-10-31T23:56:08.290Z,-14.3113,-76.3107,34.68,4.4,mb,,142,7.419,1.08,us,us2000414s,2016-01-30T02:10:59.040Z,"49km S of Paracas, Peru",earthquake,8.9,3.6,0.095,32,reviewed,us,us

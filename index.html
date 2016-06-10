@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Inconsolata::latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+</head>
+<body>
+<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://d3js.org/topojson.v1.min.js"></script>
+<script>
+
+var timeFactor = 65
+
+var mapColor = "#99c166"
+
+var width = 800,
+    height = 720;
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+svg.append("rect")
+    .attr("width", "100%")
+    .attr("height", "100%")
+    .attr('fill', mapColor)
+    .style('opacity',0.3);
+
+var projection = d3.geo.mercator();
+
+var path = d3.geo.path()
+    .projection(projection);
+
+// var factor = 12
+
+projection
+    .center([-70, -15])
+    .translate([width*0.5,height*0.47])
+    .scale(150*2.75);
+
+
+function rand(array){
+  return array[Math.floor(Math.random() * array.length)]
+}
+
+colors = ['#666547','#fb2e01','#6fcb9f','#ffe28a']
+
+function sizer(i){
+  if (i < 1){
+    return 1
+  }
+
+  else {
+    return i
+  }
+
+}
+
+function rangeMaker(center,mag){
+  xCenter = center[0]
+  yCenter = center[1]
+  radius = mag * mag * (mag*0.3)
+
+  myArray = [];
+
+  for (x = xCenter - radius ; x <= xCenter; x++) {
+      for (y = yCenter - radius ; y <= yCenter; y++) {
+          if ((x - xCenter)*(x - xCenter) + (y - yCenter)*(y - yCenter) <= radius*radius) {
+              xSym = xCenter - (x - xCenter);
+              ySym = yCenter - (y - yCenter);
+              [[x, y], [x, ySym], [xSym , y], [xSym, ySym]].forEach(function(d){
+                myArray.push(d)
+              });
+          }
+      }
+  }
+
+  return myArray
+}
+
+
+function triMaker(n,universe,time,txt){
+  for (x = 0; x < n; x++) {
+    coordinates = []
+    for (i = 0; i < 5; i++) {
+      coordinates.push(rand(universe))
+    }
+    svg.append("polygon")
+      .attr("points", coordinates)
+      .style('fill', rand(colors))
+      .style('opacity', 0)
+      .transition()
+        .delay(time/timeFactor)
+        .style('opacity',0.8)
+        .duration(1200)
+        .ease('circle')
+        .transition()
+          .style('opacity',0.3)
+          .duration(1200)
+
+    svg.append('text')
+      .text(txt)
+      .attr('x', 15)
+      .attr('y', 710)
+      .style('opacity',0)
+      .attr("font-family", "Inconsolata")
+      .attr('font-size','14px')
+      .attr('fill','#a3a290')
+      .transition()
+        .delay(time/timeFactor)
+        .style('opacity',0.1)
+        .transition()
+          .style('opacity',0)
+          .duration(1200)
+  }
+}
+
+
+d3.json("south-america-all.json", function(error, us) {
+
+  var subunits = topojson.feature(us, us.objects.sa_countries);
+
+  console.log(subunits)
+
+  svg.append("path")
+      .datum(subunits)
+      .attr("d", path)
+      .attr("class", function(d) { return "subunit " + d.id; })
+      .attr('fill',mapColor)
+      .style('opacity',0.5);
+
+
+  d3.csv("quakeData.csv", function(data) {
+    data.forEach(function(d) {
+      d.lat = +d.lat;
+      d.lon = +d.lon;
+      d.mag = +d.mag;
+      d.coord = [d.lon,d.lat];
+      d.t = +d.t;
+      d.range = rangeMaker(projection(d.coord),d.mag)
+      });
+
+    data.forEach(function(d){
+      triMaker(d.mag*1.5, d.range, d.t,d.time)
+
+      
+
+    });
+  });
+});
+
+
+
+
+
+
+</script>

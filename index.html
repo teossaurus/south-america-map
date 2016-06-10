@@ -17,6 +17,7 @@
 <body>
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script src="https://d3js.org/topojson.v1.min.js"></script>
+
 <script>
 
 var timeFactor = 65
@@ -38,41 +39,37 @@ svg.append("rect")
 
 var projection = d3.geo.mercator();
 
-var path = d3.geo.path()
-    .projection(projection);
-
-// var factor = 12
-
 projection
     .center([-70, -15])
     .translate([width*0.5,height*0.47])
     .scale(150*2.75);
 
+var path = d3.geo.path()
+    .projection(projection);
+
 
 function rand(array){
   return array[Math.floor(Math.random() * array.length)]
-}
+};
 
-colors = ['#666547','#fb2e01','#6fcb9f','#ffe28a']
+colors = ['#666547','#fb2e01','#6fcb9f','#ffe28a'];
 
 function sizer(i){
   if (i < 1){
     return 1
   }
-
   else {
     return i
   }
-
-}
+};
 
 function rangeMaker(center,mag){
   xCenter = center[0]
   yCenter = center[1]
-  radius = mag * mag * (mag*0.3)
+  radius = mag * mag *(mag*0.3)
+  n = mag * 2
 
   myArray = [];
-
   for (x = xCenter - radius ; x <= xCenter; x++) {
       for (y = yCenter - radius ; y <= yCenter; y++) {
           if ((x - xCenter)*(x - xCenter) + (y - yCenter)*(y - yCenter) <= radius*radius) {
@@ -85,46 +82,17 @@ function rangeMaker(center,mag){
       }
   }
 
-  return myArray
-}
-
-
-function triMaker(n,universe,time,txt){
+  output = [];
   for (x = 0; x < n; x++) {
     coordinates = []
-    for (i = 0; i < 5; i++) {
-      coordinates.push(rand(universe))
+    for (i = 0; i < 3; i++) {
+      coordinates.push(rand(myArray))
     }
-    svg.append("polygon")
-      .attr("points", coordinates)
-      .style('fill', rand(colors))
-      .style('opacity', 0)
-      .transition()
-        .delay(time/timeFactor)
-        .style('opacity',0.8)
-        .duration(1200)
-        .ease('circle')
-        .transition()
-          .style('opacity',0.3)
-          .duration(1200)
-
-    svg.append('text')
-      .text(txt)
-      .attr('x', 15)
-      .attr('y', 710)
-      .style('opacity',0)
-      .attr("font-family", "Inconsolata")
-      .attr('font-size','14px')
-      .attr('fill','#a3a290')
-      .transition()
-        .delay(time/timeFactor)
-        .style('opacity',0.1)
-        .transition()
-          .style('opacity',0)
-          .duration(1200)
+  output.push(coordinates)
   }
-}
 
+  return output
+}
 
 d3.json("south-america-all.json", function(error, us) {
 
@@ -135,33 +103,121 @@ d3.json("south-america-all.json", function(error, us) {
   svg.append("path")
       .datum(subunits)
       .attr("d", path)
-      .attr("class", function(d) { return "subunit " + d.id; })
       .attr('fill',mapColor)
       .style('opacity',0.5);
 
+  var tWidth = 200
+  var tHeight = 80
+
+  svg.append('rect')
+    .style("fill", "gray")
+    .style('opacity',0.2)
+    .attr("x",0)
+    .attr("y", 0)
+    .attr("width", width)
+    .attr("height", height)
+    .attr('class', 'prereel')
+    .attr('id','playBg')
+
+
+  svg.append('polygon')
+    .style("fill", "gray")
+    .style('opacity',0.6)
+    .attr("points", [
+      [(width/2)+80,(height/2)],
+      [(width/2)-45,(height/2)+65],
+      [(width/2)-45,(height/2)-65]
+      ])
+    .attr('class', 'prereel')
+    .attr('id','triangle')
+
+
+  svg.append('circle')
+    .style("fill", "gray")
+    .style('opacity',0.4)
+    .attr("cx",width/2)
+    .attr("cy", height/2)
+    .attr("r", 150)
+    .attr('class', 'prereel')
+    .on("mouseover", function(){
+      d3.select(this).style("fill", mapColor);
+      d3.selectAll('#playBg').style("opacity", 0.1);
+    })
+    .on("mouseout", function(){
+      d3.select(this).style("fill", "gray");
+      d3.selectAll('#playBg').style("opacity", 0.2);
+
+    })
+    .on('click', function(){
+      d3.selectAll('.prereel')
+        .style("opacity", 0)
+        .attr('width',0)
+        .attr('r',0)
+        .attr('points',[0,0],[0,0],[0,0])
+        quake()
+      });
+
+});
+
+function quake(){
 
   d3.csv("quakeData.csv", function(data) {
     data.forEach(function(d) {
       d.lat = +d.lat;
       d.lon = +d.lon;
       d.mag = +d.mag;
-      d.coord = [d.lon,d.lat];
+      d.coord = projection([d.lon,d.lat]);
       d.t = +d.t;
-      d.range = rangeMaker(projection(d.coord),d.mag)
-      });
+      d.range = rangeMaker(d.coord,d.mag)
+        });
 
-    data.forEach(function(d){
-      triMaker(d.mag*1.5, d.range, d.t,d.time)
+    var grp = svg.selectAll("g").data(data).enter().append("g");
 
-      
+    grp.selectAll("polygon")
+      .data(function(d, parent_t) { 
+          return d.range.map(function (points) {
+                   return { 
+                    points: points, 
+                    parent_t: d.t 
+                  };
+              });
+          })
+      .enter()
+        .append("polygon")
+        .attr("points", function(d){return d.points})
+        .attr('class','quakes')
+        .style('fill', function(c){return rand(colors)})
+        .style('opacity', 0)
 
-    });
+    svg.selectAll('text')
+      .data(data)
+      .enter().append('text')
+      .text(function(d){return d.time})
+        .attr('x', 15)
+        .attr('y', 710)
+        .style('opacity',0)
+        .attr("font-family", "Inconsolata")
+        .attr('font-size','14px')
+        .attr('fill','#a3a290')
+
+    svg.selectAll('.quakes').transition()
+      .style('opacity',0.8)
+      .delay(function(d){return d.parent_t/timeFactor})
+      .duration(1200)
+      .ease('circle')
+        .transition()
+          .style('opacity',0.3)
+          .duration(1200)
+
+    svg.selectAll('text')
+          .transition()
+          .delay(function(d){return d.t/timeFactor})
+          .style('opacity',0.2)
+          .transition()
+            .style('opacity',0)
+            .duration(1200)
   });
-});
-
-
-
-
+};
 
 
 </script>
